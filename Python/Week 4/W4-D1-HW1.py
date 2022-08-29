@@ -32,5 +32,3 @@ for row in latest_each:
         link.append('https://bina.az' + info.find('a', attrs = {'class':'item_link'})['href'])
         location.append(info.find('div', attrs = {'class':'location'}).text)
         date.append(info.find('div', attrs = {'class':'city_when'}).text.split(',')[1].lstrip())
-
-
