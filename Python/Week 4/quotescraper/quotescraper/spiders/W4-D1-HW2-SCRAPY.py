@@ -19,10 +19,10 @@ class QuoteSpider(scrapy.Spider):
     start_urls = ['https://quotes.toscrape.com/']
 
     def parse(self, response):
-        for quote in response.css(".quote span.text"):
+        for quote in response.css("div.quote"):
              yield {
-                'quote': quote.css('span.text::text').get(),
+                'quote': quote.css('span.text::text').get().encode("utf-8"),
                 'tags' : quote.css('a.tag::text').getall(),
-                #'link': quote.css('a').attrib['href'],
+                'link': "http://quotes.toscrape.com" + quote.css('a').attrib['href'],
              }
 
