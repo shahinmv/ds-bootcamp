@@ -1,3 +1,3 @@
 # Data Science bootcampp.
 
-## Notes and assignments from ds bootcamp.
+Notes and assignments taken from data science bootcamp. 
