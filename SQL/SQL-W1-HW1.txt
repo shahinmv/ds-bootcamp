@@ -1,0 +1,17 @@
+SELECT first_name ||' '|| last_name as "First name", salary, commission_pct, hire_date FROM hr.employees WHERE salary  < 10000;
+
+SELECT city as "City name" from hr.locations ORDER BY city asc;
+
+SELECT first_name, hire_date, job_id from hr.employees where (hire_date BETWEEN TO_DATE ('2002/01/01', 'yyyy/mm/dd') AND TO_DATE ('2005/01/01', 'yyyy/mm/dd')) and (job_id='IT_PROG' or job_id='SA_MAN');
+
+SELECT * from hr.jobs ORDER BY job_title desc;
+
+select * from hr.employees where (commission_pct is null and salary between 5000 and 10000)  and (department_id = 30);
+
+select * from hr.employees where hire_date > TO_DATE('2008/01/01', 'yyyy/mm/dd');
+
+select * from hr.employees where employee_id in (150, 160, 170);
+
+select * from hr.employees where first_name like 'S%' or last_name like 'S%';
+
+select LENGTH(first_name) from hr.employees where last_name like '___b%';
