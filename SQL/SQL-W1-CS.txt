@@ -1,0 +1,38 @@
+--1
+select job_title, max_salary-min_salary salary_diff from hr.jobs where max_salary between 12000 and 18000;
+
+--2
+select * from hr.employees where commission_pct is null and salary between 7000 and 1200 and department_id not in (50,30,80);
+
+--3
+select first_name ||' '|| last_name as "Full name", hire_date, commission_pct, email ||'-'|| phone_number, salary from hr.employees
+where salary > 11000 ORDER BY first_name desc;
+
+--4
+select first_name ||' '|| last_name as "Full name", salary from hr.employees where first_name like '%m' and hire_date <='05.jun.2010';
+
+--5
+select first_name ||' '|| last_name as "Full name", phone_number ||'-'|| email as "Contact details", salary as "Remuneration" 
+from hr.employees where salary not between 9000 and 17000 and commission_pct is not null;
+
+--6
+select * from hr.departments where department_name = 'Marketing';
+
+--7
+select * from hr.job_history order by employee_id desc, start_date asc;
+
+--8
+select job_id, salary from hr.employees where (phone_number like '515%' or phone_number like '590%') and hire_date >= '01.jan.2003'
+ORDER BY hire_date asc;
+
+--9
+select * from hr.employees where hire_date between '01.jan.2001' and '31.dec.2001';
+
+--10
+select first_name, last_name from hr.employees where hire_date not between '01.jan.2006' and '31.dec.2007';
+
+--11
+select * from hr.employees where hire_date like '%-07%' or hire_date like '%-JAN-%';
+
+--12
+select * from hr.employees where hire_date > '31.dec.2007' or salary < 10000;
