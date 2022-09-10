@@ -1,0 +1,585 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20194.19.1211.1636                               -->
+<workbook original-version='18.1' source-build='2019.4.1 (20194.19.1211.1636)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <SheetIdentifierTracking ignorable='true' predowngraded='true' />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='Survey results+ (Tourist satisfaction results (1))' inline='true' name='federated.0101g5l1ne2dho1dobu180mw9ovu' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Tourist satisfaction results (1)' name='excel-direct.19mj2c7081bzle11zwk901jelcwr'>
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/user/Desktop/ds-bootcamp/Tableu/Week 5/Tourist satisfaction results (1).xlsx' interpretationMode='0' password='' server='' validate='no' />
+          </named-connection>
+        </named-connections>
+        <relation join='left' type='join'>
+          <clause type='join'>
+            <expression op='='>
+              <expression op='[Survey results].[SURVEY_Participant_ID]' />
+              <expression op='[Survey Participants].[SURVEY_Participant_ID]' />
+            </expression>
+          </clause>
+          <relation join='left' type='join'>
+            <clause type='join'>
+              <expression op='='>
+                <expression op='[Survey results].[QUESTION_ID]' />
+                <expression op='[Questions].[Question_Id]' />
+              </expression>
+            </clause>
+            <relation connection='excel-direct.19mj2c7081bzle11zwk901jelcwr' name='Survey results' table='[&apos;Survey results$&apos;]' type='table'>
+              <columns gridOrigin='A1:C5433:no:A1:C5433:0' header='yes' outcome='2'>
+                <column datatype='integer' name='SURVEY_Participant_ID' ordinal='0' />
+                <column datatype='integer' name='QUESTION_ID' ordinal='1' />
+                <column datatype='integer' name='RATING' ordinal='2' />
+              </columns>
+            </relation>
+            <relation connection='excel-direct.19mj2c7081bzle11zwk901jelcwr' name='Questions' table='[Questions$]' type='table'>
+              <columns gridOrigin='A1:B7:no:A1:B7:0' header='yes' outcome='6'>
+                <column datatype='integer' name='Question_Id' ordinal='0' />
+                <column datatype='string' name='Question' ordinal='1' />
+              </columns>
+            </relation>
+          </relation>
+          <relation connection='excel-direct.19mj2c7081bzle11zwk901jelcwr' name='Survey Participants' table='[&apos;Survey Participants$&apos;]' type='table'>
+            <columns gridOrigin='A1:D907:no:A1:D907:0' header='yes' outcome='6'>
+              <column datatype='integer' name='SURVEY_Participant_ID' ordinal='0' />
+              <column datatype='string' name='Country' ordinal='1' />
+              <column datatype='string' name='Gender' ordinal='2' />
+              <column datatype='date' name='Birth_Date' ordinal='3' />
+            </columns>
+          </relation>
+        </relation>
+        <cols>
+          <map key='[Birth_Date]' value='[Survey Participants].[Birth_Date]' />
+          <map key='[Country]' value='[Survey Participants].[Country]' />
+          <map key='[Gender]' value='[Survey Participants].[Gender]' />
+          <map key='[QUESTION_ID]' value='[Survey results].[QUESTION_ID]' />
+          <map key='[Question]' value='[Questions].[Question]' />
+          <map key='[Question_Id]' value='[Questions].[Question_Id]' />
+          <map key='[RATING]' value='[Survey results].[RATING]' />
+          <map key='[SURVEY_Participant_ID (Survey Participants)]' value='[Survey Participants].[SURVEY_Participant_ID]' />
+          <map key='[SURVEY_Participant_ID]' value='[Survey results].[SURVEY_Participant_ID]' />
+        </cols>
+        <metadata-records>
+          <metadata-record class='column'>
+            <remote-name>SURVEY_Participant_ID</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[SURVEY_Participant_ID]</local-name>
+            <parent-name>[Survey results]</parent-name>
+            <remote-alias>SURVEY_Participant_ID</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>QUESTION_ID</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[QUESTION_ID]</local-name>
+            <parent-name>[Survey results]</parent-name>
+            <remote-alias>QUESTION_ID</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>RATING</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[RATING]</local-name>
+            <parent-name>[Survey results]</parent-name>
+            <remote-alias>RATING</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Survey results]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:C5433:no:A1:C5433:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>2</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Question_Id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Question_Id]</local-name>
+            <parent-name>[Questions]</parent-name>
+            <remote-alias>Question_Id</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Question</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Question]</local-name>
+            <parent-name>[Questions]</parent-name>
+            <remote-alias>Question</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Questions]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:B7:no:A1:B7:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>6</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>SURVEY_Participant_ID</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[SURVEY_Participant_ID (Survey Participants)]</local-name>
+            <parent-name>[Survey Participants]</parent-name>
+            <remote-alias>SURVEY_Participant_ID</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Country</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Country]</local-name>
+            <parent-name>[Survey Participants]</parent-name>
+            <remote-alias>Country</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Gender</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Gender]</local-name>
+            <parent-name>[Survey Participants]</parent-name>
+            <remote-alias>Gender</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Birth_Date</remote-name>
+            <remote-type>7</remote-type>
+            <local-name>[Birth_Date]</local-name>
+            <parent-name>[Survey Participants]</parent-name>
+            <remote-alias>Birth_Date</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;DATE&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Survey Participants]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:D907:no:A1:D907:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>6</attribute>
+            </attributes>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Birth Date' datatype='date' name='[Birth_Date]' role='dimension' type='ordinal' />
+      <column caption='num_survey' datatype='integer' name='[Calculation_477663043220492288]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='COUNTD([SURVEY_Participant_ID (Survey Participants)])' />
+      </column>
+      <column aggregation='None' datatype='string' name='[Country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+        <calculation class='tableau' formula='1' />
+      </column>
+      <column caption='Question Id' datatype='integer' hidden='true' name='[QUESTION_ID]' role='dimension' type='ordinal' />
+      <column caption='Question Id1' datatype='integer' name='[Question_Id]' role='dimension' type='ordinal' />
+      <column caption='Rating' datatype='integer' name='[RATING]' role='measure' type='quantitative' />
+      <column caption='SURVEY Participant ID (Survey Participants)' datatype='integer' name='[SURVEY_Participant_ID (Survey Participants)]' role='dimension' type='ordinal' />
+      <column caption='SURVEY Participant ID' datatype='integer' hidden='true' name='[SURVEY_Participant_ID]' role='dimension' type='ordinal' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.553435' measure-ordering='alphabetic' measure-percentage='0.446565' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Azerbaijan&quot;' />
+      </semantic-values>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Survey results+ (Tourist satisfaction results (1))' name='federated.0101g5l1ne2dho1dobu180mw9ovu' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0101g5l1ne2dho1dobu180mw9ovu'>
+            <column caption='num_survey' datatype='integer' name='[Calculation_477663043220492288]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='COUNTD([SURVEY_Participant_ID (Survey Participants)])' />
+            </column>
+            <column caption='SURVEY Participant ID (Survey Participants)' datatype='integer' name='[SURVEY_Participant_ID (Survey Participants)]' role='dimension' type='ordinal' />
+            <column-instance column='[Calculation_477663043220492288]' derivation='User' name='[usr:Calculation_477663043220492288:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.0101g5l1ne2dho1dobu180mw9ovu].[usr:Calculation_477663043220492288:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{52493068-DDB8-4876-AE9C-845D8C17EB3B}' />
+    </worksheet>
+    <worksheet name='Sheet 2'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Survey results+ (Tourist satisfaction results (1))' name='federated.0101g5l1ne2dho1dobu180mw9ovu' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0101g5l1ne2dho1dobu180mw9ovu'>
+            <column caption='Rating' datatype='integer' name='[RATING]' role='measure' type='quantitative' />
+            <column-instance column='[RATING]' derivation='Avg' name='[avg:RATING:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.0101g5l1ne2dho1dobu180mw9ovu].[avg:RATING:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{67C9E003-4E2E-4FC5-91EE-AFADE3CDEFE4}' />
+    </worksheet>
+    <worksheet name='Sheet 3'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Survey results+ (Tourist satisfaction results (1))' name='federated.0101g5l1ne2dho1dobu180mw9ovu' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0101g5l1ne2dho1dobu180mw9ovu'>
+            <column datatype='string' name='[Question]' role='dimension' type='nominal' />
+            <column caption='Rating' datatype='integer' name='[RATING]' role='measure' type='quantitative' />
+            <column-instance column='[Question]' derivation='None' name='[none:Question:nk]' pivot='key' type='nominal' />
+            <column-instance column='[RATING]' derivation='None' name='[none:RATING:ok]' pivot='key' type='ordinal' />
+            <column-instance column='[RATING]' derivation='Sum' name='[sum:RATING:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0101g5l1ne2dho1dobu180mw9ovu].[none:RATING:ok]' kind='hide'>
+            <groupfilter function='except' user:ui-domain='relevant' user:ui-enumeration='exclusive' user:ui-manual-selection='true' user:ui-manual-selection-all-when-empty='true' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:RATING:ok]' />
+              <groupfilter function='member' level='[none:RATING:ok]' member='%null%' />
+            </groupfilter>
+          </filter>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>([federated.0101g5l1ne2dho1dobu180mw9ovu].[none:RATING:ok] * [federated.0101g5l1ne2dho1dobu180mw9ovu].[sum:RATING:qk])</rows>
+        <cols>[federated.0101g5l1ne2dho1dobu180mw9ovu].[none:Question:nk]</cols>
+      </table>
+      <simple-id uuid='{0196275E-47AC-4E26-AB34-1A8DCFA7F7F6}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{FFE98317-88A6-4A31-BB9A-B48EA23C4661}' />
+    </window>
+    <window class='worksheet' name='Sheet 2'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{D700C47A-4770-4615-8CAD-F9B70BCDCD0E}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Sheet 3'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <selection-collection>
+          <node-selection select-tuples='false'>
+            <oriented-node-reference orientation='horizontal'>
+              <node-reference>
+                <fields>
+                  <field>[federated.0101g5l1ne2dho1dobu180mw9ovu].[none:RATING:ok]</field>
+                </fields>
+                <multibucket>
+                  <bucket>%null%</bucket>
+                </multibucket>
+              </node-reference>
+              <page-reference />
+            </oriented-node-reference>
+          </node-selection>
+        </selection-collection>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0101g5l1ne2dho1dobu180mw9ovu].[none:Question:nk]</field>
+            <field>[federated.0101g5l1ne2dho1dobu180mw9ovu].[none:RATING:ok]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{F20C5519-8351-4344-9FA0-ADB9424CF9CC}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='24' name='Sheet 1' width='64'>
+      iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAACWklEQVRYhe2YO0srURhFl8FgiJAYTBvTmlpmIFYGfPV2NoIWtmIRBBubtCIW/gLxB4iV
+      EEFRCxkrwUch+AqiUUMiEyfGmX0LIXDBW9zqEMxq9+Fjs86jOF2SxC8mZLqAaToCTBcwTUeA
+      6QKm6QgwXcA0HQGmC5imI8B0AdN0BJguYJq2EfD4+Mjs7Cy2bTM2NsbOzg5BELTyo6MjJicn
+      sW2bfD5PrVZrZfV6nUKhQDabJZvNsrKyQqPR+A7VBtTrdS0tLalYLMr3fZXLZS0uLspxHElS
+      qVTS/Py8zs/P9fHxobW1Na2vr0uSfN9XoVDQ6uqqXNfV5+enbm9v1Ww2JUltcQLe399JJBKM
+      jIwQCoVIJpPMzMzgOA4AJycnDA8Pk8lkiEQiTE9Pc39/T7Va5eHhgXK5zNzcHNFolHA4zMDA
+      AN3d3UCbXIFIJMLNzQ2O4xAEAc1mk0ajQalU4uvri2q1yuDgYGt9f38/yWQS13W5u7sjk8kQ
+      i8V+nN0WAmKxGBsbG9i2TSgUIhwOE41G6enpae3kv/A8D8/zeHt7A6BSqZDP59nf3wfaRMBP
+      nJ6ekkqlAIjH41xeXray19dXXl5e6O3tJZ1OA9DX1wdAIpFgfHycq6sroI0EXF9fU6vVCIKA
+      g4MDisUio6OjANi2zfHxMRcXF3iex9bWFqlUing8Tjqd5vn5md3dXYIgoFKpsLe3x9DQ0Pdg
+      Y0/7f7K9va1cLifLsjQ1NaWzs7O/8sPDQ01MTMiyLC0vL8t13Vb29PSkhYUFWZalXC6nzc1N
+      +b4vSeqSOr/Cv5o/nzx8tQ1JLskAAAAASUVORK5CYII=
+    </thumbnail>
+    <thumbnail height='24' name='Sheet 2' width='64'>
+      iVBORw0KGgoAAAANSUhEUgAAAEAAAAAYCAYAAABKtPtEAAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAACbklEQVRYhe2YT0hUURTGf8ojKttVRGZoLQyEFsVQukhzU5BQgbZxwIGkciNBTqKSE06Q
+      C7OiEdTIcISBDF2ojAuhYCwqY1SwMgyMmcS0UiFTM+fRaTHqOONfqLiC81ve+53zvvu9+87i
+      RYiIsIGJVG1ANeEAVBtQTTgA1QZUEw5AtQHVhANQbUA14QBUG1BNOADVBubxOjAlGTDavcsI
+      dMa67ZgzUkkyGEhKzcDSOoQ+tz3eQ3WOf+/YWTONH/VA6cxX3rZUYT5/guyQ/uskgHFa77WR
+      cuHk8pLBeqwPpzlT5uSZ242rvoDtDitNowCTtJffoD+tDpf7FU3X99FcUMOH2dL28ss8njKQ
+      X2AkJrSvrAO+PymSnJp+8bksklnrWVrk84kvZKm/pkhqPSIy4ZQr2Y9kOCCWjtJMqXgXUuCp
+      FUtIf/U3QO+k2hFNbtZ+tJV0mha0rw+18qAngeOxwMg3OHSQXQExh4/E8XlYX9QmFMUB6PRW
+      29mad4mEFU+/kBkGWixcrITcW0ZiAaZ/ErktKkilaRqegcFVu635sf8Fr4PKKRN31np6fYyn
+      ZdfoOFrMfevugPnNW/g9MRks1XXi9u5ZtaXSAF7UVfGyyUdi/cJVJ4a2XBodJv/bnUen02bF
+      k36XwvhNwY127ITuN3whYfYz0Ol67SH69BqO99cT7F+y0hAcaRBzaceiQehnQlyWDLna/El+
+      iU9Guyok61yV9IXKlhiCaj+BVfDajRRxE4cpFvp6ed5QSmJDsCbttpuS5CiS84p5n59FSskP
+      tJhTFFZaiPd3wW5Mx9Y3V2HDaQMO+G9ZhEj4r/CG5g/a3oj/ekJ6+gAAAABJRU5ErkJggg==
+    </thumbnail>
+    <thumbnail height='192' name='Sheet 3' width='192'>
+      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
+      abSl6wgRAAAAAElFTkSuQmCC
+    </thumbnail>
+  </thumbnails>
+</workbook>
