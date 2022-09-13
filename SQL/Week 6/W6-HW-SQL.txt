@@ -1,0 +1,24 @@
+--1
+select  from hr.employees where to_char(hire_date, 'mm') like '05';
+--2
+select  from hr.employees where to_char(hire_date, 'yyyy') like trunc(sysdate, 'YEAR');
+--3
+select trunc(sysdate) - to_date('2011-01-01', 'yyyy-mm-dd') from dual;
+--4
+select max(salary) from hr.employees;
+--5
+SELECT department_id, COUNT(department_id) FROM hr.employees group by department_id order by department_id;
+--6
+select count() from hr.employees where to_char(hire_date, 'dd')  '15';
+--7
+select department_id, avg(salary) from hr.employees where commission_pct is not null group by department_id;
+--8
+select job_id, avg(salary) from hr.employees group by job_id HAVING AVG(salary)10000; 
+--9
+select job_id, count(employee_id), sum(salary), max(salary)-min(salary) from hr.employees group by job_id;
+--10
+select manager_id, count(employee_id) from hr.employees group by manager_id;
+
+--11
+--Char is a static datatype and can store string with maximum length of 2000 bytes
+--Varchar is a dynamic datatype and can store a string with maximum length of 4000 bytes
