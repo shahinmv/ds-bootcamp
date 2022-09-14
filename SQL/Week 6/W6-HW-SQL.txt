@@ -1,7 +1,7 @@
 --1
 select  from hr.employees where to_char(hire_date, 'mm') like '05';
 --2
-select  from hr.employees where to_char(hire_date, 'yyyy') like trunc(sysdate, 'YEAR');
+select  from hr.employees where to_char(hire_date, 'yyyy') = trunc(sysdate, 'YEAR');
 --3
 select trunc(sysdate) - to_date('2011-01-01', 'yyyy-mm-dd') from dual;
 --4
