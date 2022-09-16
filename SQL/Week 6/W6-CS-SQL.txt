@@ -1,0 +1,44 @@
+--1
+select min(salary), avg(salary), max(salary) from hr.employees where to_char(sysdate, 'YYYY') - to_char(hire_date, 'yyyy') < '15';
+
+--2
+select department_id, count(employee_id) from hr.employees where to_char(hire_date, 'yyyy') > 2005 group by department_id;
+
+--3
+select department_id, max(salary)-min(salary) from hr.employees group by department_id having max(salary)-min(salary) > 5000;
+
+--4
+select department_id, sum(
+case
+when commission_pct is null then salary else 0 end
+) from hr.employees group by department_id;
+
+--5
+select job_id, count(employee_id) from hr.employees group by job_id having avg(salary) between 3000 and 7000;
+
+--6
+select first_name, count(first_name) from hr.employees group by first_name having count(first_name)>1;
+
+--7
+select department_id, sum(
+case
+when substr(phone_number, 1, 3) = '515' then 1 else 0 end 
+) as "515", sum(
+case
+when substr(phone_number, 1, 3) = '590' then 1 else 0 end 
+) as "590", sum(
+case
+when substr(phone_number, 1, 3) = '650' then 1 else 0 end 
+) as "650", sum(
+case
+when substr(phone_number, 1, 3) = '011' then 1 else 0 end 
+) as "011" from hr.employees group by department_id having department_id in (50, 90);
+
+--8
+select department_id, sum(salary) from hr.employees where to_char(hire_date, 'mm') in (03, 04, 05, 09, 10, 11) group by department_id having count(employee_id) > 5;
+
+--9
+select department_id, count(employee_id) from hr.employees group by department_id having max(salary) > 5000;
+
+--10
+select first_name, substr(first_name,1,1) || substr(first_name,length(first_name), length(first_name)) || substr(first_name,3, length(first_name)-3) || substr(first_name, 2, 1) from hr.employees;
