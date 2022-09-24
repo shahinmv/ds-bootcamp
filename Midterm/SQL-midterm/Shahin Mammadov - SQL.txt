@@ -1,0 +1,24 @@
+--1 
+select count(*) from hr.employees where first_name = 'John';
+
+--2
+select manager_id, count(*) from hr.employees group by manager_id;
+
+--3
+select email || ''|| '@dsa.az', first_name, last_name from hr.employees where first_name not like 'M%' and length(last_name) > 6;
+
+--4
+select * from hr.employees where REGEXP_LIKE(first_name, '^[A-Z]');
+
+--5
+SELECT first_name, last_name, hire_date, 
+case
+when to_char(hire_date, 'yyyy') < '2006' then 'kohne ishciler' else 'yeni ishciler' end as status
+from hr.employees;
+
+--6
+select TO_CHAR(employee_id, '00000'), TO_CHAR(manager_id, '00000') from hr.employees;
+
+--7
+select regexp_substr(job_title, '[A-z]*') as first_word, job_title from hr.jobs;
+
