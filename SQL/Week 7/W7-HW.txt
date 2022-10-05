@@ -1,0 +1,13 @@
+-- 1
+select emp.last_name, jb.job_title from hr.employees emp join hr.jobs jb on emp.job_id = jb.job_id where emp.department_id = 30 and commission_pct is not null;
+
+--2
+select dep.department_name, emp.first_name ||' '|| emp.last_name as full_name, emp.salary 
+from hr.departments dep join hr.employees emp on dep.manager_id=emp.employee_id
+where (to_date(sysdate,'dd/mm/yyyy') - to_date(hire_date, 'dd-mm-yyyy'))/365 > 5;
+
+--3
+select emp.first_name ||' '|| emp.last_name as full_name from hr.employees emp left outer join hr.employees mng on emp.manager_id=mng.employee_id
+where (to_date(sysdate,'dd/mm/yyyy') - to_date(emp.hire_date, 'dd-mm-yyyy'))/365 > (to_date(sysdate,'dd/mm/yyyy') - to_date(mng.hire_date, 'dd-mm-yyyy'))/365;
+
+--4
