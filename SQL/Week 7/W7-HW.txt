@@ -7,7 +7,19 @@ from hr.departments dep join hr.employees emp on dep.manager_id=emp.employee_id
 where (to_date(sysdate,'dd/mm/yyyy') - to_date(hire_date, 'dd-mm-yyyy'))/365 > 5;
 
 --3
-select emp.first_name ||' '|| emp.last_name as full_name from hr.employees emp left outer join hr.employees mng on emp.manager_id=mng.employee_id
+select emp.first_name ||' '|| emp.last_name as emp_full_name, emp.hire_date, mng.first_name ||' '|| mng.last_name as mng_full_name, mng.hire_date
+from hr.employees emp left outer join hr.employees mng on emp.manager_id=mng.employee_id
 where (to_date(sysdate,'dd/mm/yyyy') - to_date(emp.hire_date, 'dd-mm-yyyy'))/365 > (to_date(sysdate,'dd/mm/yyyy') - to_date(mng.hire_date, 'dd-mm-yyyy'))/365;
 
 --4
+select first_name ||' '|| last_name as full_name, job_title 
+from hr.employees emp 
+join  hr.job_history jbh on jbh.employee_id=emp.employee_id 
+join hr.jobs jb on jbh.job_id=jb.job_id
+where months_between(end_date,start_date) > 6;
+
+--5
+select department_name, avg(salary), count(commission_pct) from hr.departments join hr.employees using (department_id) group by department_name;
+
+--6
+select first_name, country_name from hr.employees join hr.departments using (department_id) join hr.locations using (location_id) join hr.countries using (country_id)
