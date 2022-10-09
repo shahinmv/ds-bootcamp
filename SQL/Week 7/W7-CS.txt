@@ -1,0 +1,41 @@
+--1
+select emp.employee_id, jh.f_pr_date from hr.employees emp left join 
+(select employee_id, min(end_date) f_pr_date from hr.job_history group by employee_id) jh
+on emp.employee_id=jh.employee_id;
+
+--2
+select jh.employee_id, emp.first_name, emp.last_name, department_name, city from hr.employees emp join
+(select employee_id from hr.job_history group by employee_id having count(employee_id)>1) jh
+on emp.employee_id=jh.employee_id join hr.departments using (department_id) join hr.locations using (location_id);
+
+--3
+select min(emp.hire_date), max(emp.hire_date), dep.department_name from hr.employees emp left join hr.departments dep
+on emp.department_id=dep.department_id where dep.department_name in ('IT','Human Resources') group by dep.department_name;
+
+--4
+select employee_id, to_date(sysdate,'dd/mm/yyyy') - to_date(hire_date, 'dd-mm-yyyy') as days, round(months_between(sysdate, hire_date)) as months,
+round((to_date(sysdate,'dd/mm/yyyy') - to_date(hire_date, 'dd-mm-yyyy'))/365) as year
+from hr.employees order by hire_date;
+
+--5
+select distinct emp.department_id from hr.employees emp join (select min(hire_date) min_h, max(hire_date) max_h from hr.employees) mx
+on emp.hire_date=mx.max_h or emp.hire_date=mx.min_h;
+
+--6
+select dep.department_name, loc.city from hr.departments dep 
+left join hr.locations loc on dep.location_id=loc.location_id
+left join hr.employees emp on emp.department_id=dep.department_id where emp.department_id is null;
+
+--7
+select count(*) num_hired, season from (select employee_id,
+case
+when extract(month from hire_date) in (12,1,2) then 'winter'
+when extract(month from hire_date) in (3,4,5) then 'spring'
+when extract(month from hire_date) in (6,7,8) then 'summer'
+else 'autumn' end season
+from hr.employees emp) group by season order by num_hired desc
+
+--8
+select loc.city, round(avg(emp.salary)) from hr.departments dep 
+left join hr.locations loc on dep.location_id=loc.location_id
+left join hr.employees emp on emp.department_id=dep.department_id group by loc.city;
