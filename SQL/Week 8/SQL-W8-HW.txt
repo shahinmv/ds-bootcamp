@@ -1,0 +1,50 @@
+CREATE TABLE Students
+(
+    s_id NUMBER PRIMARY KEY,
+    first_name varchar2(255),
+    last_name varchar2(255),
+    phone_number varchar2(255),
+    email varchar2(255)
+);
+
+CREATE TABLE activities
+(
+    a_id NUMBER PRIMARY KEY,
+    a_name varchar2(255),
+    cost Number
+);
+
+CREATE TABLE Schedule
+(
+    s_id NUMBER,
+    a_id NUMBER,
+    s_date DATE,
+    CONSTRAINT s_fk FOREIGN KEY (s_id) REFERENCES students (s_id),
+    CONSTRAINT a_fk FOREIGN KEY (a_id) REFERENCES activities (a_id)
+);
+
+--2
+insert into students(s_id, first_name, last_name, phone_number, email)
+select employee_id, first_name, last_name, phone_number, email from hr.employees;
+
+--3
+update students set phone_number = '***' where s_id > 200;
+
+--4
+update students set first_name = upper(first_name), last_name = upper(last_name);
+
+--5
+update students set email = 'DSA' where s_id > 150;
+select * from students;
+
+--6
+CREATE TABLE programmers AS SELECT * FROM hr.employees where job_id like '%PROG%'; 
+
+--7
+delete from students where s_id between 150 and 160;
+
+--8
+select * from students;
+
+
+
