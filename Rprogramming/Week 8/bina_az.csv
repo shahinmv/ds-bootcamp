@@ -1,0 +1,901 @@
+﻿,nov,sahe,otaq,kupca,qiymet,elani_yerlesdiren,baxis_sayi,Adres_1,Adres_2,Adres_3,Adres_4,Adres_5,Adres_6,Adres_7,Adres_8,Adres_9,Adres_10,min_mertebe,max_mertebe,ID
+0,Yeni tikili,130,3,var,235000,mülkiyyətçi,7101,Cavanşir körpüsü,Nəsimi r.,,,,,,,,,16,19,0
+1,Yeni tikili,164,3,var,237000,mülkiyyətçi,290,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,4,21,1
+2,Yeni tikili,80,2,var,55400,mülkiyyətçi,8426,Abşeron r.,,,,,,,,,,3,12,2
+3,Yeni tikili,115,3,var,210000,mülkiyyətçi,9706,İnşaatçılar m.,Yasamal r.,Yasamal q.,,,,,,,,17,19,3
+4,Köhnə tikili,60,2,var,82000,vasitəçi (agent),131,Sabunçu r.,Bakıxanov q.,,,,,,,,,9,9,4
+5,Yeni tikili,103,2,yoxdur,107000,mülkiyyətçi,5398,Azadlıq Prospekti m.,Nəsimi r.,,,,,,,,,11,16,5
+6,Yeni tikili,131,3,var,220000,vasitəçi (agent),165,Dövlət Statistika Komitəsi,Nizami m.,İncəsənət və Mədəniyyət Un.,Yasamal r.,,,,,,,3,18,6
+7,Yeni tikili,51,2,yoxdur,72000,vasitəçi (agent),120,Yasamal r.,Yeni Yasamal q.,,,,,,,,,5,12,7
+8,Yeni tikili,176,4,var,250000,vasitəçi (agent),154,Rəssamlıq Akademiyası,Montin bazarı,Nərimanov r.,,,,,,,,14,16,8
+9,Yeni tikili,140,3,yoxdur,250000,mülkiyyətçi,675,Nərimanov r.,,,,,,,,,,6,14,9
+10,Yeni tikili,140,3,var,255000,vasitəçi (agent),2808,Təhsil Nazirliyi,,,,,,,,,,5,16,10
+11,Yeni tikili,140,3,var,330000,vasitəçi (agent),1544,Nəsimi bazarı,TQDK,Nəsimi r.,,,,,,,,15,17,11
+12,Köhnə tikili,45,2,var,38000,vasitəçi (agent),617,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,,8,9,12
+13,Yeni tikili,100,3,var,205000,vasitəçi (agent),281,Rəssamlıq Akademiyası,Nəriman Nərimanov parkı,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,8,9,13
+14,Köhnə tikili,100,5,var,173000,vasitəçi (agent),304,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,,,6,9,14
+15,Yeni tikili,169,4,var,450000,vasitəçi (agent),370,Neft Akademiyası,28 May m.,Səməd Vurğun parkı,Pedaqoji Universiteti,Bakı Musiqi Akademiyası,Milli Konservatoriya,Nəsimi r.,,,,6,23,15
+16,Yeni tikili,120,3,var,360000,vasitəçi (agent),83,Tibb Universiteti,Park Zorge,Nəsimi r.,,,,,,,,9,14,16
+17,Yeni tikili,153,3,yoxdur,125000,mülkiyyətçi,6281,Tibb Universiteti,Nərimanov r.,,,,,,,,,16,20,17
+18,Köhnə tikili,110,4,var,125000,mülkiyyətçi,5293,Yasamal r.,Yeni Yasamal q.,,,,,,,,,2,9,18
+19,Köhnə tikili,33,1,var,48000,vasitəçi (agent),539,Memar Əcəmi m.,Nəsimi r.,,,,,,,,,5,5,19
+20,Yeni tikili,70,2,var,95000,vasitəçi (agent),193,Həzi Aslanov m.,Xətai r.,Əhmədli q.,,,,,,,,12,17,20
+21,Yeni tikili,140,3,var,118500,vasitəçi (agent),540,Ayna Sultanova heykəli,Nərimanov r.,,,,,,,,,15,19,21
+22,Yeni tikili,111,3,yoxdur,111000,vasitəçi (agent),1030,Nizami r.,,,,,,,,,,11,16,22
+23,Köhnə tikili,55,2,var,71000,vasitəçi (agent),403,Suraxanı r.,Yeni Günəşli q.,,,,,,,,,3,9,23
+24,Yeni tikili,210,4,var,365000,vasitəçi (agent),502,Bakı Slavyan Universiteti,Azərbaycan Dillər Universiteti,Sirk,28 May m.,Nəsimi r.,,,,,,4,18,24
+25,Yeni tikili,87,2,var,130000,vasitəçi (agent),111,İnşaatçılar m.,Yasamal r.,,,,,,,,,15,19,25
+26,Yeni tikili,100,3,var,100000,vasitəçi (agent),197,Həzi Aslanov m.,Xətai r.,,,,,,,,,17,17,26
+27,Yeni tikili,190,3,var,840000,vasitəçi (agent),476,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,17,23,27
+28,Yeni tikili,240,3,var,350000,vasitəçi (agent),1933,Qış parkı,Beşmərtəbə,Nizami m.,Nəsimi r.,,,,,,,17,17,28
+29,Yeni tikili,110,3,var,160000,vasitəçi (agent),173,Nizami r.,8-ci kilometr q.,,,,,,,,,14,17,29
+30,Yeni tikili,137,3,yoxdur,165000,vasitəçi (agent),304,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,,,6,16,30
+31,Köhnə tikili,70,3,var,105000,vasitəçi (agent),549,Nəriman Nərimanov parkı,Nəriman Nərimanov m.,Rəssamlıq Akademiyası,Nərimanov r.,,,,,,,3,4,31
+32,Yeni tikili,135,3,yoxdur,137000,vasitəçi (agent),283,Zərifə Əliyeva adına park,Nəsimi r.,4-cü mikrorayon q.,,,,,,,,11,18,32
+33,Yeni tikili,63,2,yoxdur,88000,vasitəçi (agent),145,Əhmədli m.,Xətai r.,,,,,,,,,16,17,33
+34,Köhnə tikili,54,2,var,137000,vasitəçi (agent),139,Gənclik m.,Nərimanov r.,,,,,,,,,6,9,34
+35,Yeni tikili,125,3,var,175000,mülkiyyətçi,125,Nəsimi r.,4-cü mikrorayon q.,,,,,,,,,8,16,35
+36,Yeni tikili,161,4,var,450000,vasitəçi (agent),420,Neft Akademiyası,28 May m.,Səməd Vurğun parkı,Bakı Musiqi Akademiyası,Nəsimi r.,,,,,,5,20,36
+37,Yeni tikili,209,4,var,324000,vasitəçi (agent),1890,Nərimanov r.,,,,,,,,,,8,16,37
+38,Yeni tikili,135,3,yoxdur,130000,vasitəçi (agent),353,Zərifə Əliyeva adına park,Nəsimi m.,Nəsimi r.,4-cü mikrorayon q.,,,,,,,12,18,38
+39,Yeni tikili,122.1,3,var,244000,vasitəçi (agent),154,Neft Akademiyası,28 May m.,Bakı Musiqi Akademiyası,Səməd Vurğun parkı,Milli Konservatoriya,Nəsimi r.,,,,,11,24,39
+40,Köhnə tikili,62,3,var,82000,vasitəçi (agent),240,Binəqədi r.,7-ci mikrorayon q.,,,,,,,,,4,5,40
+41,Köhnə tikili,50,2,var,86000,mülkiyyətçi,233,TQDK,Nərimanov r.,,,,,,,,,4,5,41
+42,Yeni tikili,106,3,yoxdur,50000,vasitəçi (agent),253,Abşeron r.,Masazır q.,,,,,,,,,13,13,42
+43,Köhnə tikili,70,2,var,175000,vasitəçi (agent),146,İqsadiyyat Universiteti,Axundov bağı,Mərkəzi Univermaq,M.Ə.Sabir parkı,Dövlət İdarəçilik Akademiyası,İçəri Şəhər m.,Səbail r.,,,,2,6,43
+44,Yeni tikili,85,2,var,125000,vasitəçi (agent),143,Ayna Sultanova heykəli,Nərimanov r.,,,,,,,,,5,18,44
+45,Yeni tikili,140,3,var,330000,vasitəçi (agent),1588,Zoopark,Koala parkı,Nəsimi bazarı,Dostluq kinoteatrı,Nəsimi r.,,,,,,15,18,45
+46,Yeni tikili,38,2,var,46500,mülkiyyətçi,136,Abşeron r.,Masazır q.,,,,,,,,,8,9,46
+47,Köhnə tikili,100,4,var,175000,mülkiyyətçi,441,Zərifə Əliyeva adına park,Memar Əcəmi m.,Nəsimi r.,4-cü mikrorayon q.,,,,,,,2,9,47
+48,Yeni tikili,70,2,yoxdur,102000,mülkiyyətçi,150,Bakı Asiya Universiteti,Nəsimi r.,,,,,,,,,11,17,48
+49,Yeni tikili,71,2,yoxdur,92000,vasitəçi (agent),1584,Qara Qarayev m.,Nizami r.,,,,,,,,,9,18,49
+50,Köhnə tikili,101,4,var,120000,mülkiyyətçi,156,Koroğlu m.,Nizami r.,8-ci kilometr q.,,,,,,,,9,9,50
+51,Yeni tikili,210,4,var,389000,vasitəçi (agent),151,Bakı Musiqi Akademiyası,Milli Konservatoriya,Nizami kinoteatrı,Qış parkı,Neft Akademiyası,Malokan bağı,28 May m.,Sahil m.,Nəsimi r.,,3,22,51
+52,Yeni tikili,120,3,var,150000,vasitəçi (agent),116,Ayna Sultanova heykəli,Binəqədi r.,,,,,,,,,16,20,52
+53,Yeni tikili,80,2,var,155000,vasitəçi (agent),172,Dövlət Statistika Komitəsi,Nizami m.,M.Hüseynzadə parkı,Yasamal r.,,,,,,,11,17,53
+54,Yeni tikili,140,3,yoxdur,275000,mülkiyyətçi,422,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,8,15,54
+55,Yeni tikili,177.5,3,yoxdur,285000,vasitəçi (agent),157,Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.,,,,,,,,10,17,55
+56,Yeni tikili,159,3,yoxdur,360000,vasitəçi (agent),160,Rəssamlıq Akademiyası,Nərimanov r.,,,,,,,,,15,22,56
+57,Köhnə tikili,60,2,var,63000,vasitəçi (agent),263,Həzi Aslanov m.,Xətai r.,Əhmədli q.,,,,,,,,1,5,57
+58,Köhnə tikili,110,5,yoxdur,260000,vasitəçi (agent),115,İzmir parkı,M.Hüseynzadə parkı,Dövlət Statistika Komitəsi,Yasamal r.,,,,,,,2,5,58
+59,Köhnə tikili,34,1,var,54000,mülkiyyətçi,277,Yasamal r.,Yeni Yasamal q.,,,,,,,,,2,9,59
+60,Yeni tikili,87,2,var,127000,vasitəçi (agent),126,20 Yanvar m.,Nəsimi r.,1-ci mikrorayon q.,,,,,,,,8,18,60
+61,Yeni tikili,135,3,var,210000,vasitəçi (agent),321,Yasamal r.,,,,,,,,,,19,21,61
+62,Yeni tikili,214,4,var,673000,vasitəçi (agent),1204,Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.,,,,,,,,15,20,62
+63,Yeni tikili,60,2,var,110000,vasitəçi (agent),124,20 Yanvar m.,Yasamal r.,,,,,,,,,17,19,63
+64,Yeni tikili,157,3,var,159500,mülkiyyətçi,3219,Təhsil Nazirliyi,Nərimanov r.,,,,,,,,,11,16,64
+65,Köhnə tikili,62,2,var,72000,mülkiyyətçi,167,Avtovağzal m.,Binəqədi r.,Biləcəri q.,,,,,,,,2,5,65
+66,Yeni tikili,155,4,yoxdur,262000,vasitəçi (agent),761,Yasamal r.,,,,,,,,,,11,14,66
+67,Yeni tikili,156,4,var,285000,vasitəçi (agent),315,Azərbaycan turizm institutu,Respublika stadionu,Gənclik m.,Nərimanov r.,,,,,,,15,18,67
+68,Yeni tikili,84,2,yoxdur,86000,mülkiyyətçi,236,Xətai r.,Əhmədli q.,,,,,,,,,7,12,68
+69,Yeni tikili,174,4,yoxdur,320000,vasitəçi (agent),1123,Nəsimi r.,,,,,,,,,,11,14,69
+70,Köhnə tikili,50,2,var,61500,vasitəçi (agent),224,Memar Əcəmi m.,Nəsimi r.,,,,,,,,,5,5,70
+71,Yeni tikili,155,3,yoxdur,262000,vasitəçi (agent),1114,Memarlıq və İnşaat Universiteti,Bakı Dövlət Universiteti,Texniki Universiteti,Elmlər Akademiyası m.,Yasamal r.,,,,,,14,17,71
+72,Köhnə tikili,47,2,var,95000,vasitəçi (agent),221,Nəriman Nərimanov parkı,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,,3,4,72
+73,Yeni tikili,115,3,yoxdur,145000,mülkiyyətçi,452,Ukrayna dairəsi,Əhmədli m.,Xətai r.,Əhmədli q.,,,,,,,5,16,73
+74,Köhnə tikili,70,2,var,33000,mülkiyyətçi,163,Şirvan,,,,,,,,,,3,5,74
+75,Yeni tikili,132,3,var,166000,vasitəçi (agent),488,Memar Əcəmi m.,Nəsimi r.,4-cü mikrorayon q.,,,,,,,,9,16,75
+76,Yeni tikili,236,4,yoxdur,224200,vasitəçi (agent),1375,İnşaatçılar m.,Yasamal r.,,,,,,,,,12,14,76
+77,Köhnə tikili,60,2,var,69000,vasitəçi (agent),442,Neftçilər m.,Nizami r.,8-ci kilometr q.,,,,,,,,5,5,77
+78,Yeni tikili,95,2,yoxdur,110000,vasitəçi (agent),785,Yasamal bazarı,Yasamal r.,,,,,,,,,5,17,78
+79,Yeni tikili,96,2,yoxdur,120000,vasitəçi (agent),129,Neftçi bazası,Tibb Universiteti,Nərimanov r.,,,,,,,,14,20,79
+80,Yeni tikili,93,2,var,174000,vasitəçi (agent),573,Yasamal r.,,,,,,,,,,3,16,80
+81,Yeni tikili,110,3,var,187000,vasitəçi (agent),145,Dostluq kinoteatrı,Koala parkı,Bakı Slavyan Universiteti,Zoopark,Azərbaycan Dillər Universiteti,Nəsimi r.,,,,,5,17,81
+82,Yeni tikili,160,3,var,280000,mülkiyyətçi,600,Bakı Dövlət Universiteti,Elmlər Akademiyası m.,Yasamal r.,Yasamal q.,,,,,,,12,15,82
+83,Yeni tikili,77,2,yoxdur,62000,mülkiyyətçi,317,20 Yanvar m.,Yasamal r.,,,,,,,,,12,22,83
+84,Yeni tikili,140,3,var,150000,mülkiyyətçi,207,Həzi Aslanov m.,Xətai r.,Əhmədli q.,,,,,,,,15,15,84
+85,Köhnə tikili,60,2,var,110000,vasitəçi (agent),186,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,8,9,85
+86,Köhnə tikili,80,3,var,105000,vasitəçi (agent),259,Xətai r.,Əhmədli q.,,,,,,,,,7,9,86
+87,Köhnə tikili,50,3,var,75000,vasitəçi (agent),386,Axundov bağı,Nərimanov heykəli,Sovetski,Dövlət İdarəçilik Akademiyası,İqsadiyyat Universiteti,Prezident parkı,İçəri Şəhər m.,Qubernator parkı,Səbail r.,,1,3,87
+88,Yeni tikili,70,2,var,255000,vasitəçi (agent),109,Şah İsmayıl Xətai m.,Səbail r.,,,,,,,,,7,18,88
+89,Yeni tikili,93,2,var,264000,vasitəçi (agent),928,Yasamal bazarı,İnşaatçılar m.,Yasamal r.,,,,,,,,18,20,89
+90,Yeni tikili,174,4,var,330000,vasitəçi (agent),155,28 May m.,Neft Akademiyası,Səməd Vurğun parkı,Nəsimi r.,,,,,,,9,19,90
+91,Yeni tikili,129,3,var,235000,vasitəçi (agent),277,Elmlər Akademiyası m.,İncəsənət və Mədəniyyət Un.,Yasamal r.,,,,,,,,5,18,91
+92,Yeni tikili,68.7,2,yoxdur,45000,mülkiyyətçi,240,Xırdalan,,,,,,,,,,8,11,92
+93,Yeni tikili,85,2,var,166000,vasitəçi (agent),173,Binəqədi r.,8-ci mikrorayon q.,,,,,,,,,6,14,93
+94,Yeni tikili,228,4,yoxdur,330000,vasitəçi (agent),539,Neftçi bazası,TQDK,Nəsimi r.,,,,,,,,12,18,94
+95,Yeni tikili,49,1,yoxdur,45000,mülkiyyətçi,491,Ukrayna dairəsi,Əhmədli m.,Xətai r.,Əhmədli q.,,,,,,,3,11,95
+96,Yeni tikili,220,4,yoxdur,420000,vasitəçi (agent),134,Elmlər Akademiyası m.,İncəsənət və Mədəniyyət Un.,Yasamal r.,,,,,,,,10,18,96
+97,Yeni tikili,56.7,2,var,37000,vasitəçi (agent),186,Abşeron r.,Masazır q.,,,,,,,,,2,6,97
+98,Yeni tikili,121,3,var,65000,vasitəçi (agent),162,Xırdalan,,,,,,,,,,8,10,98
+99,Köhnə tikili,60,2,var,125000,vasitəçi (agent),290,Səməd Vurğun parkı,28 May m.,Nəsimi r.,,,,,,,,5,5,99
+100,Yeni tikili,230,4,var,450000,mülkiyyətçi,141,Azərbaycan turizm institutu,Təhsil Nazirliyi,Gənclik m.,Nərimanov r.,,,,,,,16,17,100
+101,Yeni tikili,129,3,yoxdur,140000,mülkiyyətçi,188,Ukrayna dairəsi,Həzi Aslanov m.,Xətai r.,Əhmədli q.,,,,,,,3,18,101
+102,Köhnə tikili,130,5,var,177000,vasitəçi (agent),137,Ayna Sultanova heykəli,Binəqədi r.,,,,,,,,,3,5,102
+103,Köhnə tikili,76,4,var,75000,vasitəçi (agent),130,Sumqayıt,,,,,,,,,,3,5,103
+104,Yeni tikili,62,2,var,90000,mülkiyyətçi,1330,Qara Qarayev m.,Nizami r.,8-ci kilometr q.,,,,,,,,6,16,104
+105,Köhnə tikili,85,3,var,125000,vasitəçi (agent),193,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,,,8,9,105
+106,Yeni tikili,45,2,yoxdur,95000,vasitəçi (agent),214,Elmlər Akademiyası m.,Yasamal r.,,,,,,,,,6,16,106
+107,Yeni tikili,155,4,var,540000,vasitəçi (agent),800,Yasamal r.,,,,,,,,,,12,20,107
+108,Yeni tikili,75,2,yoxdur,108750,vasitəçi (agent),205,Neft Akademiyası,28 May m.,Bakı Musiqi Akademiyası,Milli Konservatoriya,Nəsimi r.,,,,,,7,14,108
+109,Köhnə tikili,50,2,var,65000,vasitəçi (agent),189,Memar Əcəmi m.,Nəsimi r.,,,,,,,,,1,5,109
+110,Köhnə tikili,55,2,var,53000,mülkiyyətçi,1536,Xətai r.,Əhmədli q.,,,,,,,,,4,9,110
+111,Yeni tikili,65,2,var,135000,vasitəçi (agent),178,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,6,20,111
+112,Yeni tikili,72,2,yoxdur,86000,vasitəçi (agent),216,Yasamal r.,Yeni Yasamal q.,,,,,,,,,2,12,112
+113,Köhnə tikili,65,3,var,115000,vasitəçi (agent),2194,Nizami m.,M.Hüseynzadə parkı,Nəsimi r.,,,,,,,,4,5,113
+114,Köhnə tikili,75,3,var,96000,vasitəçi (agent),157,Əhmədli m.,Ukrayna dairəsi,Xətai r.,,,,,,,,7,9,114
+115,Yeni tikili,190,4,var,238000,vasitəçi (agent),165,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,6,22,115
+116,Yeni tikili,185,4,var,649000,vasitəçi (agent),812,Yasamal r.,,,,,,,,,,12,20,116
+117,Köhnə tikili,45,2,var,88000,vasitəçi (agent),376,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,,,2,5,117
+118,Yeni tikili,145,3,var,255000,mülkiyyətçi,1874,20 Yanvar m.,Yasamal r.,,,,,,,,,16,19,118
+119,Köhnə tikili,40,2,var,154000,vasitəçi (agent),194,Fontanlar bağı,Azərbaycan kinoteatrı,Xalça Muzeyi,Mərkəzi Univermaq,Sahil m.,Səbail r.,,,,,1,3,119
+120,Köhnə tikili,40,1,var,41500,vasitəçi (agent),404,Binəqədi r.,7-ci mikrorayon q.,,,,,,,,,6,7,120
+121,Yeni tikili,215,4,var,475000,vasitəçi (agent),348,İzmir parkı,İdman kompleksi,M.Hüseynzadə parkı,Nəsimi r.,,,,,,,9,18,121
+122,Köhnə tikili,33,1,var,38000,mülkiyyətçi,224,Mingəçevir,,,,,,,,,,5,5,122
+123,Yeni tikili,213,4,yoxdur,380000,vasitəçi (agent),140,M.Hüseynzadə parkı,Dövlət Statistika Komitəsi,Nizami m.,Yasamal r.,,,,,,,5,17,123
+124,Köhnə tikili,30,2,var,63000,vasitəçi (agent),177,Memar Əcəmi m.,Nəsimi r.,,,,,,,,,4,5,124
+125,Yeni tikili,60,2,yoxdur,70000,vasitəçi (agent),238,Yasamal r.,Yeni Yasamal q.,,,,,,,,,6,11,125
+126,Yeni tikili,81,2,var,155000,vasitəçi (agent),158,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,,,2,16,126
+127,Yeni tikili,28,1,var,59500,mülkiyyətçi,841,20 Yanvar m.,Yasamal r.,,,,,,,,,4,16,127
+128,Yeni tikili,110,3,yoxdur,82500,mülkiyyətçi,302,20 Yanvar m.,Yasamal r.,,,,,,,,,15,22,128
+129,Yeni tikili,104,3,var,130000,vasitəçi (agent),261,Memar Əcəmi m.,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,14,17,129
+130,Yeni tikili,196,5,var,500000,vasitəçi (agent),106,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,12,18,130
+131,Köhnə tikili,73,4,var,110000,mülkiyyətçi,177,Nizami r.,8-ci kilometr q.,,,,,,,,,2,5,131
+132,Yeni tikili,26,1,var,26000,vasitəçi (agent),3139,20 Yanvar m.,Yasamal r.,,,,,,,,,16,18,132
+133,Yeni tikili,134.4,3,yoxdur,134400,vasitəçi (agent),139,Səbail r.,,,,,,,,,,18,18,133
+134,Yeni tikili,215,4,var,765000,vasitəçi (agent),1385,Yasamal r.,,,,,,,,,,14,20,134
+135,Yeni tikili,145,3,var,350000,vasitəçi (agent),128,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,16,18,135
+136,Yeni tikili,75,2,var,157000,mülkiyyətçi,2785,İnşaatçılar m.,Yasamal r.,Yasamal q.,,,,,,,,16,19,136
+137,Yeni tikili,68,2,yoxdur,97000,mülkiyyətçi,12575,Səbail r.,,,,,,,,,,11,15,137
+138,Yeni tikili,249,5,var,700000,vasitəçi (agent),177,Qış parkı,Beşmərtəbə,Nizami m.,Nəsimi r.,,,,,,,8,14,138
+139,Yeni tikili,152,3,var,288000,vasitəçi (agent),562,Nəsimi bazarı,Koala parkı,Nəsimi r.,,,,,,,,10,18,139
+140,Yeni tikili,120,3,yoxdur,110000,mülkiyyətçi,303,İnşaatçılar m.,Yasamal r.,,,,,,,,,5,19,140
+141,Yeni tikili,39,2,var,43500,vasitəçi (agent),128,Abşeron r.,Masazır q.,,,,,,,,,2,9,141
+142,Köhnə tikili,139.6,3,yoxdur,139600,vasitəçi (agent),152,Səbail r.,,,,,,,,,,4,16,142
+143,Köhnə tikili,45,2,var,65000,vasitəçi (agent),252,Zərifə Əliyeva adına park,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,7,9,143
+144,Köhnə tikili,34,1,var,66000,vasitəçi (agent),185,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,,,4,5,144
+145,Yeni tikili,86,2,yoxdur,45000,mülkiyyətçi,2256,Xırdalan,,,,,,,,,,13,13,145
+146,Yeni tikili,100,2,yoxdur,75000,vasitəçi (agent),807,20 Yanvar m.,Yasamal r.,,,,,,,,,18,22,146
+147,Yeni tikili,65,2,var,140000,vasitəçi (agent),161,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,15,20,147
+148,Yeni tikili,95,2,yoxdur,110000,vasitəçi (agent),98,Xətai r.,Əhmədli q.,,,,,,,,,4,16,148
+149,Yeni tikili,104,3,yoxdur,119000,mülkiyyətçi,183,Binəqədi r.,,,,,,,,,,16,17,149
+150,Yeni tikili,155,3,var,400000,vasitəçi (agent),148,Yasamal bazarı,Yasamal r.,,,,,,,,,10,18,150
+151,Köhnə tikili,85,4,var,100000,vasitəçi (agent),168,Sabunçu r.,Bakıxanov q.,,,,,,,,,1,5,151
+152,Yeni tikili,123,2,var,240000,vasitəçi (agent),114,Neftçi bazası,TQDK,Nəsimi r.,,,,,,,,9,19,152
+153,Yeni tikili,125,3,var,185000,vasitəçi (agent),133,Memar Əcəmi m.,Nəsimi r.,,,,,,,,,8,16,153
+154,Yeni tikili,205,4,var,355000,mülkiyyətçi,5832,Zabitlər parkı,Sirk,Rusiya səfirliyi,Sevil Qazıyeva parkı,Nizami m.,Nəsimi r.,Kubinka q.,,,,14,18,154
+155,Köhnə tikili,70,3,var,95000,vasitəçi (agent),153,Memar Əcəmi m.,,,,,,,,,,1,5,155
+156,Yeni tikili,96,3,yoxdur,174000,mülkiyyətçi,146,Sevil Qazıyeva parkı,Rusiya səfirliyi,Park Zorge,Nəsimi r.,,,,,,,15,20,156
+157,Yeni tikili,136,3,var,250000,vasitəçi (agent),109,Zabitlər parkı,Sirk,Rusiya səfirliyi,Azərbaycan Dillər Universiteti,Nəsimi r.,,,,,,17,18,157
+158,Yeni tikili,90,3,yoxdur,150000,mülkiyyətçi,202,Zərifə Əliyeva adına park,Nəsimi m.,Binəqədi r.,6-cı mikrorayon q.,,,,,,,7,14,158
+159,Köhnə tikili,90,3,var,108000,mülkiyyətçi,159,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,,9,9,159
+160,Yeni tikili,170,4,var,135000,mülkiyyətçi,127,Yasamal r.,Yeni Yasamal q.,,,,,,,,,17,17,160
+161,Yeni tikili,156,3,yoxdur,265000,vasitəçi (agent),125,Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.,,,,,,,,7,16,161
+162,Yeni tikili,94,2,var,188000,vasitəçi (agent),131,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,16,18,162
+163,Köhnə tikili,100,4,var,112000,mülkiyyətçi,184,Neftçilər m.,Nizami r.,8-ci kilometr q.,,,,,,,,1,5,163
+164,Yeni tikili,133,3,yoxdur,200000,mülkiyyətçi,570,Qış parkı,Sirk,Nizami m.,Nəsimi r.,,,,,,,7,16,164
+165,Yeni tikili,55,1,var,71000,mülkiyyətçi,157,Suraxanı r.,Qaraçuxur q.,,,,,,,,,9,14,165
+166,Köhnə tikili,75,3,var,80000,vasitəçi (agent),678,Neftçilər m.,Nizami r.,,,,,,,,,1,5,166
+167,Yeni tikili,85,2,yoxdur,68000,vasitəçi (agent),302,Binəqədi r.,,,,,,,,,,11,16,167
+168,Köhnə tikili,95,3,yoxdur,105000,vasitəçi (agent),1667,İnşaatçılar m.,Yasamal r.,Yeni Yasamal q.,,,,,,,,4,5,168
+169,Köhnə tikili,88,3,var,108000,vasitəçi (agent),182,Yasamal bazarı,Yasamal r.,Yasamal q.,,,,,,,,5,5,169
+170,Köhnə tikili,50,2,var,81000,vasitəçi (agent),172,Yasamal bazarı,Yasamal r.,,,,,,,,,4,9,170
+171,Köhnə tikili,70,2,var,80000,vasitəçi (agent),180,Əhmədli m.,Xətai r.,Əhmədli q.,,,,,,,,7,9,171
+172,Yeni tikili,64,2,yoxdur,140000,mülkiyyətçi,923,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,15,20,172
+173,Köhnə tikili,100,4,var,190000,mülkiyyətçi,110,Nərimanov r.,,,,,,,,,,1,9,173
+174,Yeni tikili,145,4,var,190000,mülkiyyətçi,428,Yasamal r.,Yeni Yasamal q.,,,,,,,,,14,17,174
+175,Yeni tikili,125,3,yoxdur,295000,vasitəçi (agent),99,Ağ şəhər,Xətai r.,,,,,,,,,3,7,175
+176,Yeni tikili,56,2,yoxdur,85000,vasitəçi (agent),267,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,,10,14,176
+177,Köhnə tikili,100,3,var,100000,vasitəçi (agent),372,Xalqlar Dostluğu m.,Xətai r.,,,,,,,,,5,9,177
+178,Yeni tikili,134.4,3,yoxdur,134400,vasitəçi (agent),142,Səbail r.,,,,,,,,,,4,16,178
+179,Köhnə tikili,65,2,var,80000,vasitəçi (agent),155,Əhmədli m.,Xətai r.,,,,,,,,,2,9,179
+180,Köhnə tikili,80,3,var,130000,mülkiyyətçi,798,Səbail r.,Badamdar q.,,,,,,,,,4,5,180
+181,Köhnə tikili,90,4,var,115000,vasitəçi (agent),170,Xətai r.,Əhmədli q.,,,,,,,,,4,9,181
+182,Yeni tikili,39.8,1,var,42500,mülkiyyətçi,200,Abşeron r.,Masazır q.,,,,,,,,,5,7,182
+183,Yeni tikili,90,2,var,136500,vasitəçi (agent),1323,İnşaatçılar m.,Yasamal r.,,,,,,,,,6,17,183
+184,Yeni tikili,167,3,var,369000,vasitəçi (agent),975,Zoopark,Nəsimi r.,,,,,,,,,15,19,184
+185,Yeni tikili,171,3,var,295000,mülkiyyətçi,10146,Nəsimi r.,,,,,,,,,,8,17,185
+186,Yeni tikili,120,3,yoxdur,174000,vasitəçi (agent),190,Ayna Sultanova heykəli,Nərimanov r.,,,,,,,,,5,15,186
+187,Yeni tikili,52,2,var,143000,mülkiyyətçi,4018,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,14,15,187
+188,Köhnə tikili,130,4,var,135000,vasitəçi (agent),153,Ukrayna dairəsi,Əhmədli m.,Xətai r.,,,,,,,,8,9,188
+189,Yeni tikili,185,4,yoxdur,1000000,vasitəçi (agent),181,Dövlət İdarəçilik Akademiyası,İçəri Şəhər m.,Qubernator parkı,İqsadiyyat Universiteti,Axundov bağı,Prezident parkı,M.Ə.Sabir parkı,İçəri Şəhər,Şəlalə parkı,Səbail r.,11,16,189
+190,Yeni tikili,145,3,yoxdur,240000,vasitəçi (agent),280,Yasamal r.,,,,,,,,,,5,17,190
+191,Yeni tikili,85,2,var,145000,mülkiyyətçi,163,İnşaatçılar m.,Yasamal r.,,,,,,,,,9,13,191
+192,Yeni tikili,110,3,var,200000,vasitəçi (agent),215,Dövlət Statistika Komitəsi,İncəsənət və Mədəniyyət Un.,Nizami m.,Yasamal r.,,,,,,,5,12,192
+193,Yeni tikili,103.6,2,var,285000,vasitəçi (agent),119,Montin bazarı,Nərimanov r.,,,,,,,,,8,16,193
+194,Köhnə tikili,60,2,var,75000,vasitəçi (agent),249,Memar Əcəmi m.,20 Yanvar m.,Yasamal r.,Yasamal q.,,,,,,,1,5,194
+195,Köhnə tikili,64,3,var,109000,mülkiyyətçi,172,Qara Qarayev m.,Nizami r.,,,,,,,,,1,5,195
+196,Yeni tikili,133,3,yoxdur,140000,vasitəçi (agent),3517,Binəqədi r.,8-ci mikrorayon q.,,,,,,,,,15,18,196
+197,Yeni tikili,95,2,var,130000,vasitəçi (agent),169,Qara Qarayev m.,Nizami r.,8-ci kilometr q.,,,,,,,,2,16,197
+198,Köhnə tikili,34,1,var,50000,vasitəçi (agent),203,Nizami r.,,,,,,,,,,4,5,198
+199,Yeni tikili,178,4,yoxdur,213600,vasitəçi (agent),156,Yasamal r.,,,,,,,,,,6,21,199
+200,Yeni tikili,124,3,yoxdur,190000,mülkiyyətçi,657,Koala parkı,Dostluq kinoteatrı,Nəsimi bazarı,Zoopark,Park Zorge,Nəsimi r.,,,,,5,16,200
+201,Yeni tikili,127,3,var,165000,mülkiyyətçi,274,Neftçi bazası,Nəsimi r.,,,,,,,,,6,17,201
+202,Yeni tikili,183,4,var,250000,mülkiyyətçi,634,28 May m.,Neft Akademiyası,Bakı Musiqi Akademiyası,Bakı Slavyan Universiteti,Nəsimi r.,,,,,,6,16,202
+203,Yeni tikili,112,3,yoxdur,165000,vasitəçi (agent),1478,Nəsimi r.,3-cü mikrorayon q.,,,,,,,,,10,11,203
+204,Köhnə tikili,100,4,var,410000,vasitəçi (agent),135,Sahil m.,Sahil bağı,Malokan bağı,Xalça Muzeyi,Pedaqoji Universiteti,Nizami kinoteatrı,Səbail r.,,,,4,6,204
+205,Yeni tikili,82,3,yoxdur,105000,vasitəçi (agent),174,İnşaatçılar m.,Yasamal r.,Yeni Yasamal q.,,,,,,,,12,17,205
+206,Yeni tikili,170,3,var,350000,mülkiyyətçi,4334,Azərbaycan Dillər Universiteti,Bakı Slavyan Universiteti,Sirk,Zabitlər parkı,,,,,,,11,14,206
+207,Yeni tikili,120,3,var,160000,vasitəçi (agent),184,Qara Qarayev m.,Nizami r.,,,,,,,,,18,18,207
+208,Köhnə tikili,75,3,var,145000,vasitəçi (agent),197,Cavanşir körpüsü,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,5,5,208
+209,Yeni tikili,161,3,var,280000,vasitəçi (agent),10549,Elmlər Akademiyası m.,Yasamal r.,,,,,,,,,5,10,209
+210,Yeni tikili,155,3,yoxdur,145000,vasitəçi (agent),2093,Səbail r.,,,,,,,,,,12,18,210
+211,Yeni tikili,110,3,var,118000,vasitəçi (agent),1354,Əhmədli m.,Xətai r.,,,,,,,,,7,13,211
+212,Yeni tikili,105,2,var,105000,vasitəçi (agent),499,Yasamal r.,,,,,,,,,,22,27,212
+213,Yeni tikili,91,2,yoxdur,125000,mülkiyyətçi,144,Sabunçu r.,Bakıxanov q.,,,,,,,,,17,21,213
+214,Yeni tikili,125,3,var,149000,vasitəçi (agent),143,Yasamal r.,Yeni Yasamal q.,,,,,,,,,3,12,214
+215,Yeni tikili,67.3,2,yoxdur,90000,vasitəçi (agent),222,Rəssamlıq Akademiyası,Nəriman Nərimanov parkı,Montin bazarı,Nəriman Nərimanov m.,Nərimanov r.,,,,,,8,19,215
+216,Yeni tikili,157,3,var,330000,vasitəçi (agent),119,Cavanşir körpüsü,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,5,19,216
+217,Yeni tikili,133,3,var,210000,vasitəçi (agent),158,Azadlıq Prospekti m.,Binəqədi r.,,,,,,,,,3,16,217
+218,Yeni tikili,130,3,var,356000,vasitəçi (agent),450,Park Zorge,Rusiya səfirliyi,Nəsimi bazarı,Koala parkı,Sevil Qazıyeva parkı,Nəsimi r.,,,,,9,14,218
+219,Köhnə tikili,40,2,var,60000,vasitəçi (agent),258,Yasamal r.,Yeni Yasamal q.,,,,,,,,,8,9,219
+220,Yeni tikili,137,3,yoxdur,255000,mülkiyyətçi,257,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,11,16,220
+221,Köhnə tikili,52,2,var,85000,vasitəçi (agent),286,Qara Qarayev m.,Nizami r.,,,,,,,,,7,9,221
+222,Yeni tikili,185,4,var,225000,vasitəçi (agent),171,Zoopark,Dostluq kinoteatrı,Nərimanov r.,,,,,,,,18,23,222
+223,Yeni tikili,110.5,3,yoxdur,110500,vasitəçi (agent),145,Səbail r.,,,,,,,,,,4,16,223
+224,Yeni tikili,130,3,var,210000,vasitəçi (agent),346,Yasamal r.,,,,,,,,,,18,20,224
+225,Köhnə tikili,60,2,var,60000,vasitəçi (agent),309,Xətai r.,Əhmədli q.,,,,,,,,,8,9,225
+226,Yeni tikili,141,3,var,232000,vasitəçi (agent),178,Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.,,,,,,,,6,18,226
+227,Köhnə tikili,85,4,var,135000,vasitəçi (agent),134,Sabunçu r.,Bakıxanov q.,,,,,,,,,5,5,227
+228,Yeni tikili,126,3,yoxdur,240000,vasitəçi (agent),156,Nizami m.,Yasamal r.,Yasamal q.,,,,,,,,11,12,228
+229,Yeni tikili,173,4,yoxdur,275000,mülkiyyətçi,775,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,8,16,229
+230,Köhnə tikili,74,3,var,115000,mülkiyyətçi,295,Qara Qarayev m.,Nizami r.,8-ci kilometr q.,,,,,,,,2,5,230
+231,Köhnə tikili,250,6,var,650000,vasitəçi (agent),176,Pedaqoji Universiteti,Sahil bağı,Malokan bağı,Milli Konservatoriya,Nizami kinoteatrı,Neft Akademiyası,Bakı Musiqi Akademiyası,Sahil m.,28 May m.,Nəsimi r.,2,4,231
+232,Yeni tikili,132,3,var,190000,vasitəçi (agent),168,Yasamal r.,,,,,,,,,,5,12,232
+233,Köhnə tikili,85,3,var,116000,vasitəçi (agent),220,Azadlıq Prospekti m.,Binəqədi r.,8-ci mikrorayon q.,,,,,,,,7,9,233
+234,Yeni tikili,90,3,yoxdur,98000,vasitəçi (agent),1029,Xalqlar Dostluğu m.,Nizami r.,,,,,,,,,18,19,234
+235,Yeni tikili,82,3,yoxdur,170000,vasitəçi (agent),127,Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.,,,,,,,,14,17,235
+236,Köhnə tikili,50,2,var,59000,vasitəçi (agent),355,Suraxanı r.,Yeni Günəşli q.,,,,,,,,,3,9,236
+237,Yeni tikili,105,2,yoxdur,140000,vasitəçi (agent),122,Bakı Asiya Universiteti,Nəsimi r.,3-cü mikrorayon q.,,,,,,,,12,18,237
+238,Yeni tikili,63.1,2,yoxdur,21000,mülkiyyətçi,271,Xırdalan,,,,,,,,,,17,17,238
+239,Yeni tikili,175,4,var,175000,vasitəçi (agent),284,Memar Əcəmi m.,20 Yanvar m.,Nəsimi r.,,,,,,,,5,12,239
+240,Yeni tikili,122,2,var,265000,vasitəçi (agent),165,Dövlət İdarəçilik Akademiyası,Prezident parkı,Qubernator parkı,İçəri Şəhər m.,Axundov bağı,İqsadiyyat Universiteti,Şəlalə parkı,Səbail r.,,,5,12,240
+241,Köhnə tikili,60,2,var,179000,vasitəçi (agent),155,Axundov bağı,İqsadiyyat Universiteti,Dövlət İdarəçilik Akademiyası,M.Ə.Sabir parkı,Mərkəzi Univermaq,İçəri Şəhər m.,Sovetski,Səbail r.,,,2,5,241
+242,Köhnə tikili,43,2,var,79000,vasitəçi (agent),211,Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.,,,,,,,,6,9,242
+243,Yeni tikili,138,3,var,230000,vasitəçi (agent),573,Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.,,,,,,,,2,16,243
+244,Yeni tikili,250,9,yoxdur,195000,vasitəçi (agent),127,Səbail r.,Bayıl q.,,,,,,,,,5,5,244
+245,Köhnə tikili,50,2,var,250000,vasitəçi (agent),186,Axundov bağı,Sovetski,Nərimanov heykəli,Dövlət İdarəçilik Akademiyası,İqsadiyyat Universiteti,Prezident parkı,İçəri Şəhər m.,Nəsimi r.,,,2,4,245
+246,Yeni tikili,106.5,3,yoxdur,92000,mülkiyyətçi,357,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,,12,19,246
+247,Köhnə tikili,46,2,var,77000,vasitəçi (agent),131,Yasamal bazarı,Yasamal r.,Yasamal q.,,,,,,,,1,5,247
+248,Yeni tikili,62,2,yoxdur,95000,vasitəçi (agent),875,Zərifə Əliyeva adına park,Binəqədi r.,6-cı mikrorayon q.,,,,,,,,16,17,248
+249,Yeni tikili,44,2,yoxdur,37000,vasitəçi (agent),158,Abşeron r.,Masazır q.,,,,,,,,,6,6,249
+250,Yeni tikili,57,2,yoxdur,57000,mülkiyyətçi,2217,Yasamal r.,Yeni Yasamal q.,,,,,,,,,13,17,250
+251,Köhnə tikili,48,2,var,149000,vasitəçi (agent),129,28 May m.,Neft Akademiyası,Səməd Vurğun parkı,Nəsimi r.,,,,,,,3,4,251
+252,Yeni tikili,129.3,5,yoxdur,165000,mülkiyyətçi,1022,Nərimanov r.,,,,,,,,,,5,16,252
+253,Yeni tikili,150,4,yoxdur,190000,vasitəçi (agent),128,20 Yanvar m.,Nəsimi r.,,,,,,,,,11,19,253
+254,Yeni tikili,71,2,var,125000,mülkiyyətçi,570,Səbail r.,Bayıl q.,,,,,,,,,3,16,254
+255,Yeni tikili,115,3,var,230000,vasitəçi (agent),157,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,3,16,255
+256,Köhnə tikili,110,5,var,260000,vasitəçi (agent),113,Dövlət Statistika Komitəsi,İzmir parkı,M.Hüseynzadə parkı,Yasamal r.,,,,,,,2,5,256
+257,Yeni tikili,102,3,var,138000,vasitəçi (agent),1254,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,,11,17,257
+258,Köhnə tikili,78,3,var,95000,vasitəçi (agent),139,Əhmədli m.,Ukrayna dairəsi,Xətai r.,,,,,,,,2,9,258
+259,Köhnə tikili,65,3,var,108000,vasitəçi (agent),126,Sabunçu r.,Bakıxanov q.,,,,,,,,,1,5,259
+260,Köhnə tikili,60.4,2,var,75000,mülkiyyətçi,190,Nizami r.,8-ci kilometr q.,,,,,,,,,5,5,260
+261,Yeni tikili,195,4,var,320000,mülkiyyətçi,2587,Rəssamlıq Akademiyası,Nəriman Nərimanov parkı,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,6,10,261
+262,Yeni tikili,111,3,var,260000,vasitəçi (agent),139,28 May m.,Neft Akademiyası,Bakı Musiqi Akademiyası,Milli Konservatoriya,Səməd Vurğun parkı,Nəsimi r.,,,,,11,16,262
+263,Yeni tikili,440,4,var,550000,vasitəçi (agent),1928,İncəsənət və Mədəniyyət Un.,Elmlər Akademiyası m.,Yasamal r.,,,,,,,,20,23,263
+264,Yeni tikili,180,4,var,395000,vasitəçi (agent),844,Cavanşir körpüsü,Xətai r.,,,,,,,,,5,18,264
+265,Yeni tikili,281,5,yoxdur,430000,mülkiyyətçi,614,Sirk,Qış parkı,Azərbaycan Dillər Universiteti,Zabitlər parkı,Nəsimi r.,,,,,,10,16,265
+266,Yeni tikili,94,2,var,130000,vasitəçi (agent),234,İnşaatçılar m.,Yasamal r.,,,,,,,,,6,18,266
+267,Yeni tikili,123,3,var,220000,vasitəçi (agent),160,Bakı Dövlət Universiteti,Elmlər Akademiyası m.,Yasamal r.,,,,,,,,8,16,267
+268,Yeni tikili,131,3,yoxdur,170000,vasitəçi (agent),157,Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.,,,,,,,,16,20,268
+269,Köhnə tikili,90,3,var,150000,vasitəçi (agent),158,Dövlət Statistika Komitəsi,İzmir parkı,M.Hüseynzadə parkı,Yasamal r.,,,,,,,3,9,269
+270,Yeni tikili,214,4,var,765000,vasitəçi (agent),10934,Yasamal r.,,,,,,,,,,14,18,270
+271,Yeni tikili,170,4,var,355000,mülkiyyətçi,9403,Cavanşir körpüsü,Nəsimi r.,,,,,,,,,14,19,271
+272,Yeni tikili,140,3,yoxdur,250000,vasitəçi (agent),5867,Elmlər Akademiyası m.,,,,,,,,,,15,17,272
+273,Yeni tikili,141,3,yoxdur,105500,mülkiyyətçi,215,Bakı Dövlət Universiteti,Yasamal r.,Yeni Yasamal q.,,,,,,,,10,18,273
+274,Köhnə tikili,70,3,var,125000,vasitəçi (agent),134,Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.,,,,,,,,5,5,274
+275,Yeni tikili,117,3,yoxdur,175000,vasitəçi (agent),610,20 Yanvar m.,Yasamal r.,Yasamal q.,,,,,,,,9,14,275
+276,Yeni tikili,86,3,yoxdur,120000,vasitəçi (agent),266,Elmlər Akademiyası m.,Yasamal r.,Yasamal q.,,,,,,,,3,17,276
+277,Yeni tikili,143,3,var,220000,vasitəçi (agent),120,İnşaatçılar m.,Yasamal r.,,,,,,,,,3,18,277
+278,Yeni tikili,52.1,2,yoxdur,78000,mülkiyyətçi,174,Yasamal r.,Yeni Yasamal q.,,,,,,,,,10,12,278
+279,Yeni tikili,120,3,var,394400,mülkiyyətçi,1840,Zabitlər parkı,Rusiya səfirliyi,Park Zorge,Sirk,Nəsimi r.,,,,,,9,14,279
+280,Yeni tikili,116,3,var,177000,vasitəçi (agent),132,20 Yanvar m.,Nəsimi r.,,,,,,,,,4,8,280
+281,Köhnə tikili,71,3,var,114900,mülkiyyətçi,125,Zərifə Əliyeva adına park,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,3,5,281
+282,Köhnə tikili,70,2,var,145000,vasitəçi (agent),219,Axundov bağı,Dövlət İdarəçilik Akademiyası,İqsadiyyat Universiteti,İçəri Şəhər m.,Prezident parkı,Qubernator parkı,M.Ə.Sabir parkı,Nərimanov heykəli,Sovetski,Səbail r.,5,5,282
+283,Köhnə tikili,130,3,var,155000,vasitəçi (agent),3407,Elmlər Akademiyası m.,Yasamal r.,,,,,,,,,4,5,283
+284,Yeni tikili,62,2,yoxdur,105000,vasitəçi (agent),540,Zərifə Əliyeva adına park,Binəqədi r.,6-cı mikrorayon q.,,,,,,,,10,17,284
+285,Yeni tikili,58,1,yoxdur,55000,vasitəçi (agent),257,Yasamal r.,Yeni Yasamal q.,,,,,,,,,4,17,285
+286,Yeni tikili,75,2,yoxdur,110000,vasitəçi (agent),245,Binəqədi r.,7-ci mikrorayon q.,,,,,,,,,7,19,286
+287,Yeni tikili,115,3,var,235000,mülkiyyətçi,701,Nizami m.,Yasamal r.,Yasamal q.,,,,,,,,16,17,287
+288,Yeni tikili,80,2,var,124500,vasitəçi (agent),305,Memar Əcəmi m.,Nəsimi r.,3-cü mikrorayon q.,,,,,,,,6,11,288
+289,Yeni tikili,210,4,var,355000,vasitəçi (agent),156,Koala parkı,Nəsimi bazarı,Dostluq kinoteatrı,Park Zorge,Nəsimi r.,,,,,,6,17,289
+290,Yeni tikili,225,4,yoxdur,500000,vasitəçi (agent),2013,Koala parkı,Dostluq kinoteatrı,Nəsimi bazarı,Park Zorge,Zoopark,Nəsimi r.,,,,,16,22,290
+291,Yeni tikili,137,3,yoxdur,248000,vasitəçi (agent),124,Nizami m.,Yasamal r.,Yasamal q.,,,,,,,,11,12,291
+292,Yeni tikili,55,1,yoxdur,62000,vasitəçi (agent),216,Xətai r.,Həzi Aslanov q.,,,,,,,,,16,18,292
+293,Yeni tikili,174,3,yoxdur,278000,vasitəçi (agent),665,İncəsənət və Mədəniyyət Un.,Elmlər Akademiyası m.,Yasamal r.,Yasamal q.,,,,,,,8,16,293
+294,Yeni tikili,122,3,var,265000,vasitəçi (agent),175,Axundov bağı,Dövlət İdarəçilik Akademiyası,Nərimanov heykəli,Prezident parkı,Sovetski,İqsadiyyat Universiteti,Qubernator parkı,İçəri Şəhər m.,Şəlalə parkı,Səbail r.,5,12,294
+295,Yeni tikili,61,1,yoxdur,84000,vasitəçi (agent),168,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,5,15,295
+296,Köhnə tikili,100,4,var,135000,vasitəçi (agent),222,Ayna Sultanova heykəli,Binəqədi r.,8-ci mikrorayon q.,,,,,,,,3,9,296
+297,Yeni tikili,162,3,var,325000,vasitəçi (agent),400,Sovetski,Hüseyn Cavid parkı,Texniki Universiteti,Nərimanov heykəli,Elmlər Akademiyası m.,Yasamal r.,Yasamal q.,,,,10,17,297
+298,Yeni tikili,80,2,yoxdur,130000,vasitəçi (agent),120,Bakı Dövlət Universiteti,Yasamal r.,,,,,,,,,8,16,298
+299,Yeni tikili,120,3,yoxdur,220000,vasitəçi (agent),1132,Respublika stadionu,Gənclik m.,Azərbaycan turizm institutu,Nərimanov r.,,,,,,,12,16,299
+300,Köhnə tikili,105,4,var,154000,vasitəçi (agent),174,Azadlıq Prospekti m.,Binəqədi r.,8-ci mikrorayon q.,,,,,,,,4,9,300
+301,Yeni tikili,80,2,yoxdur,70000,vasitəçi (agent),718,Xətai r.,Həzi Aslanov q.,,,,,,,,,18,19,301
+302,Yeni tikili,90,3,var,143000,vasitəçi (agent),157,Zərifə Əliyeva adına park,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,15,18,302
+303,Köhnə tikili,60,3,var,78000,vasitəçi (agent),247,Azadlıq Prospekti m.,Binəqədi r.,8-ci mikrorayon q.,,,,,,,,9,9,303
+304,Yeni tikili,138.8,3,yoxdur,138800,vasitəçi (agent),123,Səbail r.,,,,,,,,,,4,16,304
+305,Köhnə tikili,150,4,var,250000,vasitəçi (agent),145,Rusiya səfirliyi,Zabitlər parkı,Park Zorge,Sevil Qazıyeva parkı,Sirk,Nəsimi r.,,,,,3,6,305
+306,Köhnə tikili,90,3,var,210000,vasitəçi (agent),2521,Sahil m.,Malokan bağı,Sahil bağı,Xalça Muzeyi,Nizami kinoteatrı,Pedaqoji Universiteti,Nəsimi r.,,,,2,5,306
+307,Yeni tikili,95,3,yoxdur,99000,mülkiyyətçi,1273,Xırdalan,,,,,,,,,,5,7,307
+308,Yeni tikili,112,2,var,190000,vasitəçi (agent),122,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,15,19,308
+309,Yeni tikili,142,3,yoxdur,240000,vasitəçi (agent),245,Ağ şəhər,Xətai r.,,,,,,,,,2,7,309
+310,Yeni tikili,110,3,yoxdur,95000,vasitəçi (agent),191,Yasamal r.,Yeni Yasamal q.,,,,,,,,,2,11,310
+311,Yeni tikili,50,1,yoxdur,49000,vasitəçi (agent),434,Bakı Asiya Universiteti,Nəsimi r.,3-cü mikrorayon q.,,,,,,,,19,19,311
+312,Yeni tikili,86,2,var,43000,vasitəçi (agent),258,Xırdalan,,,,,,,,,,12,12,312
+313,Yeni tikili,125,3,var,215000,vasitəçi (agent),169,Bakı Slavyan Universiteti,Azərbaycan Dillər Universiteti,Dostluq kinoteatrı,28 May m.,Nəsimi r.,,,,,,11,17,313
+314,Yeni tikili,128,3,var,72000,vasitəçi (agent),146,Xırdalan,,,,,,,,,,8,12,314
+315,Yeni tikili,50,1,yoxdur,73000,vasitəçi (agent),1270,Nəsimi r.,,,,,,,,,,10,13,315
+316,Yeni tikili,61,2,yoxdur,35000,mülkiyyətçi,2892,Xırdalan,,,,,,,,,,10,11,316
+317,Köhnə tikili,80,3,var,270000,vasitəçi (agent),617,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,,,1,5,317
+318,Yeni tikili,140,4,var,270000,vasitəçi (agent),155,Ağ şəhər,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,3,16,318
+319,Yeni tikili,167,3,var,265000,vasitəçi (agent),101,Təhsil Nazirliyi,Nərimanov r.,,,,,,,,,5,16,319
+320,Yeni tikili,155,3,yoxdur,186000,mülkiyyətçi,721,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,8,18,320
+321,Köhnə tikili,32,1,var,48000,vasitəçi (agent),623,Memar Əcəmi m.,Nəsimi r.,4-cü mikrorayon q.,,,,,,,,5,5,321
+322,Yeni tikili,154,4,yoxdur,310000,mülkiyyətçi,161,Nərimanov r.,,,,,,,,,,18,19,322
+323,Yeni tikili,88,2,var,120000,vasitəçi (agent),165,Qara Qarayev m.,Nizami r.,8-ci kilometr q.,,,,,,,,9,13,323
+324,Yeni tikili,215,4,var,470000,vasitəçi (agent),1524,Zoopark,Şərq bazarı,Nərimanov r.,,,,,,,,3,18,324
+325,Köhnə tikili,170,5,var,100000,mülkiyyətçi,1024,Sumqayıt,,,,,,,,,,2,5,325
+326,Köhnə tikili,72,3,var,62000,mülkiyyətçi,261,Suraxanı r.,Hövsan q.,,,,,,,,,3,5,326
+327,Yeni tikili,412,5,yoxdur,220000,vasitəçi (agent),573,Şərq bazarı,Nərimanov r.,,,,,,,,,18,19,327
+328,Yeni tikili,90,3,yoxdur,156000,vasitəçi (agent),342,Təhsil Nazirliyi,Nərimanov r.,,,,,,,,,10,17,328
+329,Yeni tikili,136,3,yoxdur,136000,vasitəçi (agent),572,Zərifə Əliyeva adına park,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,3,17,329
+330,Yeni tikili,90,2,var,110000,vasitəçi (agent),177,Yasamal r.,Yeni Yasamal q.,,,,,,,,,4,17,330
+331,Yeni tikili,60,2,var,78000,vasitəçi (agent),182,Neapol dairəsi,Xətai r.,Əhmədli q.,,,,,,,,16,17,331
+332,Köhnə tikili,65,2,var,95000,vasitəçi (agent),171,Nəsimi m.,Azadlıq Prospekti m.,Binəqədi r.,6-cı mikrorayon q.,,,,,,,3,9,332
+333,Yeni tikili,158,3,yoxdur,205000,vasitəçi (agent),1372,Nəsimi bazarı,Koala parkı,Nəsimi r.,,,,,,,,8,17,333
+334,Yeni tikili,105,3,var,105000,mülkiyyətçi,744,Xırdalan,,,,,,,,,,4,10,334
+335,Yeni tikili,68.2,2,var,60000,mülkiyyətçi,4156,20 Yanvar m.,Yasamal r.,,,,,,,,,16,16,335
+336,Yeni tikili,102,3,var,100000,vasitəçi (agent),138,Sumqayıt,,,,,,,,,,7,10,336
+337,Köhnə tikili,90,4,var,88000,vasitəçi (agent),147,Suraxanı r.,Qaraçuxur q.,,,,,,,,,2,9,337
+338,Köhnə tikili,40,2,var,56000,vasitəçi (agent),388,Nəsimi r.,4-cü mikrorayon q.,,,,,,,,,4,5,338
+339,Köhnə tikili,80,3,var,108000,vasitəçi (agent),149,Xətai r.,Əhmədli q.,,,,,,,,,4,9,339
+340,Yeni tikili,85,2,var,157000,vasitəçi (agent),128,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,5,20,340
+341,Yeni tikili,140,3,var,245000,vasitəçi (agent),1063,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,10,18,341
+342,Yeni tikili,68,2,var,110000,vasitəçi (agent),292,20 Yanvar m.,,,,,,,,,,8,16,342
+343,Yeni tikili,125,3,yoxdur,233000,mülkiyyətçi,3482,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,8,12,343
+344,Köhnə tikili,65,3,var,145000,mülkiyyətçi,1261,Gənclik m.,Respublika stadionu,Nərimanov r.,,,,,,,,4,5,344
+345,Yeni tikili,136.5,3,yoxdur,102000,mülkiyyətçi,138,Bakı Dövlət Universiteti,Yasamal r.,Yeni Yasamal q.,,,,,,,,9,18,345
+346,Yeni tikili,140,3,yoxdur,168000,vasitəçi (agent),145,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,16,16,346
+347,Yeni tikili,102,3,yoxdur,145500,mülkiyyətçi,171,Bakı Asiya Universiteti,,,,,,,,,,15,20,347
+348,Yeni tikili,180,4,var,249000,vasitəçi (agent),196,Tibb Universiteti,Nəsimi r.,,,,,,,,,14,18,348
+349,Yeni tikili,90,3,var,198000,vasitəçi (agent),160,İncəsənət və Mədəniyyət Un.,Elmlər Akademiyası m.,Yasamal r.,Yasamal q.,,,,,,,17,19,349
+350,Köhnə tikili,160,4,var,365000,vasitəçi (agent),303,Texniki Universiteti,Hüseyn Cavid parkı,Elmlər Akademiyası m.,Yasamal r.,,,,,,,2,5,350
+351,Köhnə tikili,35,1,var,82500,vasitəçi (agent),140,M.Hüseynzadə parkı,İzmir parkı,Sevil Qazıyeva parkı,Nəsimi r.,,,,,,,3,6,351
+352,Yeni tikili,185,4,var,420000,vasitəçi (agent),591,28 May m.,Neft Akademiyası,Bakı Musiqi Akademiyası,Səməd Vurğun parkı,Nəsimi r.,,,,,,9,18,352
+353,Yeni tikili,135,3,yoxdur,159000,vasitəçi (agent),538,Memar Əcəmi m.,Nəsimi r.,,,,,,,,,11,14,353
+354,Yeni tikili,106,3,var,130000,vasitəçi (agent),140,Həzi Aslanov m.,Ukrayna dairəsi,Xətai r.,,,,,,,,15,17,354
+355,Yeni tikili,122,3,var,174999,vasitəçi (agent),137,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,,2,18,355
+356,Yeni tikili,98,2,yoxdur,98000,vasitəçi (agent),3309,Zərifə Əliyeva adına park,6-cı mikrorayon q.,,,,,,,,,16,17,356
+357,Yeni tikili,147,3,var,270000,vasitəçi (agent),233,Space TV,Nərimanov heykəli,Texniki Universiteti,Sovetski,Yasamal r.,,,,,,4,16,357
+358,Yeni tikili,200,4,var,540000,vasitəçi (agent),123,Park Zorge,Rusiya səfirliyi,Nəsimi bazarı,Koala parkı,Nəsimi r.,,,,,,16,18,358
+359,Yeni tikili,216,4,yoxdur,367000,vasitəçi (agent),126,TQDK,Gənclik m.,Nərimanov r.,,,,,,,,7,11,359
+360,Yeni tikili,140,3,yoxdur,275000,vasitəçi (agent),457,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,9,17,360
+361,Yeni tikili,160,4,yoxdur,285000,vasitəçi (agent),3759,Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.,,,,,,,,10,16,361
+362,Köhnə tikili,80,3,var,128000,vasitəçi (agent),316,Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.,,,,,,,,1,9,362
+363,Yeni tikili,130,4,yoxdur,158000,vasitəçi (agent),139,Həzi Aslanov m.,Xətai r.,Əhmədli q.,,,,,,,,2,15,363
+364,Yeni tikili,86,3,yoxdur,42000,vasitəçi (agent),165,Xırdalan,,,,,,,,,,13,13,364
+365,Yeni tikili,65,2,var,125000,vasitəçi (agent),223,Dövlət Statistika Komitəsi,İncəsənət və Mədəniyyət Un.,Nizami m.,Yasamal r.,,,,,,,5,10,365
+366,Köhnə tikili,60,2,var,55000,vasitəçi (agent),558,Nərimanov r.,,,,,,,,,,5,9,366
+367,Yeni tikili,103,3,yoxdur,200000,vasitəçi (agent),381,Elmlər Akademiyası m.,Yasamal r.,,,,,,,,,5,15,367
+368,Köhnə tikili,110,5,var,125000,vasitəçi (agent),113,Suraxanı r.,,,,,,,,,,7,7,368
+369,Köhnə tikili,35,1,var,78500,vasitəçi (agent),154,Sahil bağı,Malokan bağı,Sahil m.,Pedaqoji Universiteti,Nizami kinoteatrı,Xalça Muzeyi,Milli Konservatoriya,Səbail r.,,,1,3,369
+370,Yeni tikili,90,3,yoxdur,52500,vasitəçi (agent),3548,Abşeron r.,Masazır q.,,,,,,,,,9,10,370
+371,Köhnə tikili,60,2,var,93000,vasitəçi (agent),203,Azadlıq Prospekti m.,Binəqədi r.,8-ci mikrorayon q.,,,,,,,,5,9,371
+372,Yeni tikili,180,3,var,400000,vasitəçi (agent),462,Gənclik m.,Respublika stadionu,Nərimanov r.,,,,,,,,9,17,372
+373,Yeni tikili,135,3,yoxdur,238000,vasitəçi (agent),125,Memar Əcəmi m.,Nəsimi r.,4-cü mikrorayon q.,,,,,,,,8,8,373
+374,Yeni tikili,110,3,yoxdur,124000,vasitəçi (agent),199,Binəqədi r.,8-ci mikrorayon q.,,,,,,,,,17,17,374
+375,Yeni tikili,125,3,var,260000,vasitəçi (agent),90,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,13,19,375
+376,Yeni tikili,120,3,var,230000,vasitəçi (agent),119,Neft Akademiyası,28 May m.,Bakı Musiqi Akademiyası,Milli Konservatoriya,Səməd Vurğun parkı,Nəsimi r.,,,,,18,23,376
+377,Yeni tikili,45,2,var,45000,mülkiyyətçi,4219,Xırdalan,,,,,,,,,,2,5,377
+378,Köhnə tikili,35,1,var,36000,vasitəçi (agent),146,Sumqayıt,,,,,,,,,,4,5,378
+379,Yeni tikili,55,2,yoxdur,40000,mülkiyyətçi,1998,Abşeron r.,Masazır q.,,,,,,,,,1,6,379
+380,Yeni tikili,75.2,3,var,48880,vasitəçi (agent),192,Abşeron r.,Masazır q.,,,,,,,,,2,6,380
+381,Yeni tikili,354,5,yoxdur,630000,vasitəçi (agent),347,Zoopark,Nərimanov r.,,,,,,,,,19,19,381
+382,Yeni tikili,160,4,yoxdur,250000,vasitəçi (agent),113,Memar Əcəmi m.,Nəsimi r.,4-cü mikrorayon q.,,,,,,,,16,18,382
+383,Yeni tikili,120,3,var,245000,vasitəçi (agent),154,Nəsimi bazarı,Park Zorge,Tibb Universiteti,Nəsimi r.,,,,,,,14,17,383
+384,Yeni tikili,142,3,yoxdur,156200,vasitəçi (agent),133,İnşaatçılar m.,Yasamal r.,,,,,,,,,4,18,384
+385,Yeni tikili,184,4,var,265000,vasitəçi (agent),239,Tibb Universiteti,Park Zorge,Nəsimi r.,,,,,,,,14,16,385
+386,Köhnə tikili,60,2,var,112000,vasitəçi (agent),217,Koala parkı,Dostluq kinoteatrı,Nəsimi bazarı,Zoopark,Nəsimi r.,,,,,,5,7,386
+387,Yeni tikili,112,3,yoxdur,188000,vasitəçi (agent),751,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,15,18,387
+388,Yeni tikili,174,3,var,259000,mülkiyyətçi,2222,Dövlət Statistika Komitəsi,İzmir parkı,M.Hüseynzadə parkı,Nizami m.,Yasamal r.,,,,,,10,22,388
+389,Yeni tikili,140,3,var,176000,vasitəçi (agent),196,Memar Əcəmi m.,Nəsimi r.,,,,,,,,,12,18,389
+390,Yeni tikili,71,2,yoxdur,72000,vasitəçi (agent),305,Həzi Aslanov m.,Xətai r.,Həzi Aslanov q.,,,,,,,,5,17,390
+391,Köhnə tikili,60,2,var,108000,vasitəçi (agent),173,Cavanşir körpüsü,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,2,5,391
+392,Yeni tikili,93,2,var,140000,vasitəçi (agent),184,Bakı Asiya Universiteti,Nəsimi r.,,,,,,,,,4,18,392
+393,Yeni tikili,60,2,var,124000,mülkiyyətçi,510,İnşaatçılar m.,Yasamal r.,Yasamal q.,,,,,,,,4,10,393
+394,Yeni tikili,158,3,var,230000,vasitəçi (agent),583,Elmlər Akademiyası m.,Yasamal r.,,,,,,,,,5,12,394
+395,Köhnə tikili,35,1,var,67500,vasitəçi (agent),336,Yasamal r.,,,,,,,,,,3,5,395
+396,Köhnə tikili,70,3,var,145000,vasitəçi (agent),146,Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.,,,,,,,,8,9,396
+397,Yeni tikili,215,4,var,322000,mülkiyyətçi,2233,Dövlət Statistika Komitəsi,İncəsənət və Mədəniyyət Un.,İzmir parkı,Nizami m.,Yasamal r.,,,,,,14,22,397
+398,Yeni tikili,72,1,yoxdur,57000,vasitəçi (agent),231,Xətai r.,Əhmədli q.,,,,,,,,,7,19,398
+399,Köhnə tikili,70,3,var,175000,vasitəçi (agent),613,Bakı Musiqi Akademiyası,Milli Konservatoriya,Neft Akademiyası,Qış parkı,28 May m.,Nizami kinoteatrı,Nəsimi r.,,,,2,5,399
+400,Köhnə tikili,95,3,var,88000,mülkiyyətçi,251,Neapol dairəsi,Xətai r.,,,,,,,,,2,9,400
+401,Yeni tikili,136,3,yoxdur,149000,vasitəçi (agent),174,Zərifə Əliyeva adına park,Binəqədi r.,6-cı mikrorayon q.,,,,,,,,12,16,401
+402,Yeni tikili,135,3,yoxdur,195000,vasitəçi (agent),143,Nərimanov r.,,,,,,,,,,14,19,402
+403,Yeni tikili,135.6,3,yoxdur,169500,mülkiyyətçi,1504,Binəqədi r.,8-ci mikrorayon q.,,,,,,,,,9,21,403
+404,Köhnə tikili,62,3,var,74000,vasitəçi (agent),358,Memar Əcəmi m.,Nəsimi r.,,,,,,,,,3,5,404
+405,Köhnə tikili,65,3,var,83000,vasitəçi (agent),163,Xətai r.,Həzi Aslanov q.,,,,,,,,,1,5,405
+406,Köhnə tikili,48,2,yoxdur,55000,mülkiyyətçi,128,Sumqayıt,,,,,,,,,,5,5,406
+407,Yeni tikili,125,3,yoxdur,243000,mülkiyyətçi,4593,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,5,12,407
+408,Yeni tikili,87.7,3,yoxdur,87000,mülkiyyətçi,370,Suraxanı r.,Massiv D q.,,,,,,,,,4,10,408
+409,Yeni tikili,110,3,yoxdur,160000,vasitəçi (agent),134,Memar Əcəmi m.,Nəsimi r.,4-cü mikrorayon q.,,,,,,,,8,18,409
+410,Köhnə tikili,51.7,2,var,85000,mülkiyyətçi,2730,Nərimanov r.,,,,,,,,,,9,9,410
+411,Yeni tikili,87,3,var,156000,vasitəçi (agent),141,Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.,,,,,,,,10,17,411
+412,Köhnə tikili,120,5,var,177000,vasitəçi (agent),140,Ayna Sultanova heykəli,Nərimanov r.,,,,,,,,,3,5,412
+413,Yeni tikili,52,2,var,85000,vasitəçi (agent),190,Yasamal r.,Yeni Yasamal q.,,,,,,,,,11,20,413
+414,Yeni tikili,150,3,var,365000,vasitəçi (agent),693,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,6,18,414
+415,Köhnə tikili,42,2,yoxdur,71000,mülkiyyətçi,180,Nəsimi r.,4-cü mikrorayon q.,,,,,,,,,1,5,415
+416,Yeni tikili,68,2,yoxdur,127000,vasitəçi (agent),162,Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.,,,,,,,,15,18,416
+417,Yeni tikili,95,3,var,157000,mülkiyyətçi,402,Memar Əcəmi m.,Nəsimi r.,2-ci mikrorayon q.,,,,,,,,18,18,417
+418,Yeni tikili,88,2,var,150000,vasitəçi (agent),142,Nəsimi r.,4-cü mikrorayon q.,,,,,,,,,9,12,418
+419,Yeni tikili,96,3,var,123000,mülkiyyətçi,869,Dövlət Statistika Komitəsi,İncəsənət və Mədəniyyət Un.,Nizami m.,Yasamal r.,Yasamal q.,,,,,,15,16,419
+420,Köhnə tikili,100,3,var,92000,vasitəçi (agent),175,Nəsimi m.,Binəqədi r.,,,,,,,,,9,9,420
+421,Yeni tikili,55,2,var,47000,vasitəçi (agent),152,Sumqayıt,,,,,,,,,,10,16,421
+422,Yeni tikili,78,3,yoxdur,96000,vasitəçi (agent),205,Yasamal r.,Yeni Yasamal q.,,,,,,,,,11,19,422
+423,Yeni tikili,143,3,var,350000,vasitəçi (agent),979,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,16,20,423
+424,Yeni tikili,90,2,yoxdur,30000,vasitəçi (agent),2213,İnşaatçılar m.,Yasamal r.,,,,,,,,,12,18,424
+425,Yeni tikili,158,3,var,298000,mülkiyyətçi,3154,Bakı Slavyan Universiteti,Azərbaycan Dillər Universiteti,Dostluq kinoteatrı,Nəsimi r.,,,,,,,8,16,425
+426,Yeni tikili,131,3,var,220000,mülkiyyətçi,820,Memar Əcəmi m.,Nəsimi r.,4-cü mikrorayon q.,,,,,,,,2,7,426
+427,Yeni tikili,117,3,yoxdur,135000,mülkiyyətçi,234,Ayna Sultanova heykəli,Nərimanov r.,,,,,,,,,7,17,427
+428,Yeni tikili,140,3,var,225000,vasitəçi (agent),175,Zoopark,Dostluq kinoteatrı,Nəsimi r.,,,,,,,,4,14,428
+429,Yeni tikili,100,3,var,240000,vasitəçi (agent),113,Cavanşir körpüsü,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,16,19,429
+430,Yeni tikili,141,3,var,280000,vasitəçi (agent),115,Koala parkı,Dostluq kinoteatrı,Nəsimi bazarı,Park Zorge,Nəsimi r.,,,,,,3,19,430
+431,Köhnə tikili,40,2,var,65000,vasitəçi (agent),557,Yasamal bazarı,Yasamal r.,,,,,,,,,2,5,431
+432,Köhnə tikili,48,2,var,76000,vasitəçi (agent),179,Memar Əcəmi m.,Nəsimi r.,,,,,,,,,2,5,432
+433,Yeni tikili,150,3,var,296000,vasitəçi (agent),304,Binəqədi r.,8-ci mikrorayon q.,,,,,,,,,12,18,433
+434,Köhnə tikili,50,2,var,68000,vasitəçi (agent),606,Yasamal bazarı,Elmlər Akademiyası m.,Yasamal r.,,,,,,,,2,5,434
+435,Yeni tikili,70,2,yoxdur,56500,vasitəçi (agent),2296,Abşeron r.,Masazır q.,,,,,,,,,1,5,435
+436,Yeni tikili,85,3,yoxdur,127000,mülkiyyətçi,1305,20 Yanvar m.,,,,,,,,,,12,18,436
+437,Yeni tikili,28,1,var,58000,vasitəçi (agent),248,20 Yanvar m.,Yasamal r.,,,,,,,,,15,18,437
+438,Köhnə tikili,80,3,var,95000,vasitəçi (agent),146,Həzi Aslanov m.,Ukrayna dairəsi,Xətai r.,,,,,,,,6,9,438
+439,Yeni tikili,54,2,var,54000,vasitəçi (agent),367,Yasamal r.,Yeni Yasamal q.,,,,,,,,,7,12,439
+440,Yeni tikili,84,3,var,115000,vasitəçi (agent),154,Nəsimi bazarı,Nəsimi r.,,,,,,,,,3,15,440
+441,Yeni tikili,50,2,yoxdur,85000,mülkiyyətçi,1277,Yasamal bazarı,Yasamal r.,Yasamal q.,,,,,,,,16,17,441
+442,Yeni tikili,97,2,var,195000,vasitəçi (agent),407,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,6,19,442
+443,Yeni tikili,86,2,yoxdur,135000,vasitəçi (agent),138,İnşaatçılar m.,Yasamal r.,,,,,,,,,4,10,443
+444,Yeni tikili,157,3,yoxdur,211950,vasitəçi (agent),158,Xətai r.,,,,,,,,,,13,22,444
+445,Köhnə tikili,100,4,var,117000,vasitəçi (agent),215,Yasamal r.,Yeni Yasamal q.,,,,,,,,,4,9,445
+446,Yeni tikili,69,2,var,155000,vasitəçi (agent),177,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,16,18,446
+447,Yeni tikili,78,2,var,127000,vasitəçi (agent),186,Səbail r.,Bayıl q.,,,,,,,,,2,20,447
+448,Yeni tikili,60,2,yoxdur,58500,mülkiyyətçi,129,Abşeron r.,,,,,,,,,,2,8,448
+449,Köhnə tikili,118,4,var,380000,vasitəçi (agent),434,Fontanlar bağı,Azərbaycan kinoteatrı,Mərkəzi Univermaq,M.Ə.Sabir parkı,Xalça Muzeyi,Sahil m.,İçəri Şəhər m.,Səbail r.,,,3,4,449
+450,Yeni tikili,52,2,var,65000,vasitəçi (agent),159,Xırdalan,,,,,,,,,,13,15,450
+451,Yeni tikili,148,3,var,270000,vasitəçi (agent),750,Space TV,Nərimanov heykəli,Texniki Universiteti,Yasamal r.,Yasamal q.,,,,,,4,17,451
+452,Yeni tikili,100,2,yoxdur,119000,vasitəçi (agent),162,Binəqədi r.,7-ci mikrorayon q.,,,,,,,,,11,18,452
+453,Köhnə tikili,45,2,var,67000,mülkiyyətçi,196,Neftçilər m.,Nizami r.,8-ci kilometr q.,,,,,,,,5,5,453
+454,Yeni tikili,76,2,yoxdur,75000,vasitəçi (agent),224,İnşaatçılar m.,Yasamal r.,Yeni Yasamal q.,,,,,,,,9,19,454
+455,Yeni tikili,159,3,var,222600,vasitəçi (agent),180,Cavanşir körpüsü,Xətai r.,,,,,,,,,11,17,455
+456,Yeni tikili,97,2,yoxdur,124000,mülkiyyətçi,210,Tibb Universiteti,Nəsimi r.,,,,,,,,,3,16,456
+457,Köhnə tikili,40,2,var,63000,mülkiyyətçi,142,Xətai r.,Əhmədli q.,,,,,,,,,9,9,457
+458,Köhnə tikili,75,3,var,135000,vasitəçi (agent),205,Şəhidlər xiyabanı,Səbail r.,Badamdar q.,,,,,,,,5,9,458
+459,Yeni tikili,65,2,var,180000,mülkiyyətçi,1043,Nəsimi r.,,,,,,,,,,14,19,459
+460,Köhnə tikili,80,4,var,88000,vasitəçi (agent),279,Sumqayıt,,,,,,,,,,2,5,460
+461,Yeni tikili,39,2,var,46000,vasitəçi (agent),163,Abşeron r.,Masazır q.,,,,,,,,,4,9,461
+462,Yeni tikili,137,3,var,240000,vasitəçi (agent),383,İnşaatçılar m.,Yasamal r.,,,,,,,,,15,17,462
+463,Köhnə tikili,43,2,var,165000,mülkiyyətçi,6645,Gənclik m.,Respublika stadionu,Nərimanov r.,,,,,,,,5,5,463
+464,Yeni tikili,133,3,var,190000,vasitəçi (agent),2885,İnşaatçılar m.,Yasamal r.,,,,,,,,,5,10,464
+465,Yeni tikili,145,3,var,295000,vasitəçi (agent),154,Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.,Yasamal q.,,,,,,,11,17,465
+466,Yeni tikili,150,3,var,350000,vasitəçi (agent),132,Ağ şəhər,Xətai r.,,,,,,,,,3,5,466
+467,Köhnə tikili,30,1,var,56000,vasitəçi (agent),399,Yasamal bazarı,Yasamal r.,,,,,,,,,1,5,467
+468,Yeni tikili,75,2,var,95000,vasitəçi (agent),172,Əhmədli m.,Xətai r.,Əhmədli q.,,,,,,,,13,16,468
+469,Yeni tikili,54,1,var,38700,vasitəçi (agent),323,Sabunçu r.,Zabrat q.,,,,,,,,,8,10,469
+470,Yeni tikili,126,3,yoxdur,202000,vasitəçi (agent),147,Neftçi bazası,Nərimanov r.,,,,,,,,,3,18,470
+471,Köhnə tikili,54,2,var,55000,mülkiyyətçi,132,Suraxanı r.,Hövsan q.,,,,,,,,,5,5,471
+472,Yeni tikili,96,2,var,202000,mülkiyyətçi,83,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,13,18,472
+473,Yeni tikili,126,3,var,185000,mülkiyyətçi,164,Nəsimi r.,4-cü mikrorayon q.,,,,,,,,,8,16,473
+474,Yeni tikili,82,2,yoxdur,118000,vasitəçi (agent),134,Yasamal bazarı,İnşaatçılar m.,Yasamal r.,,,,,,,,16,17,474
+475,Yeni tikili,208,5,yoxdur,352000,vasitəçi (agent),126,Yasamal r.,,,,,,,,,,7,18,475
+476,Yeni tikili,46,2,var,85000,vasitəçi (agent),124,20 Yanvar m.,Yasamal r.,,,,,,,,,12,19,476
+477,Yeni tikili,165,4,var,350000,mülkiyyətçi,3423,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,5,20,477
+478,Yeni tikili,118.3,3,yoxdur,142000,mülkiyyətçi,1348,Bakı Dövlət Universiteti,Yasamal r.,Yasamal q.,,,,,,,,3,18,478
+479,Yeni tikili,244,7,var,340000,vasitəçi (agent),308,Beşmərtəbə,Nizami m.,Yasamal r.,,,,,,,,7,10,479
+480,Yeni tikili,425,5,var,720000,vasitəçi (agent),460,Nəsimi bazarı,Koala parkı,Park Zorge,Dostluq kinoteatrı,Nəsimi r.,,,,,,16,17,480
+481,Yeni tikili,147,4,yoxdur,100000,vasitəçi (agent),143,Yasamal r.,,,,,,,,,,19,22,481
+482,Yeni tikili,64,2,var,105000,vasitəçi (agent),184,Bakı,,,,,,,,,,14,18,482
+483,Yeni tikili,169,4,var,450000,mülkiyyətçi,128,28 May m.,Neft Akademiyası,Bakı Musiqi Akademiyası,Səməd Vurğun parkı,Milli Konservatoriya,Nəsimi r.,,,,,5,22,483
+484,Köhnə tikili,47,2,var,95000,vasitəçi (agent),127,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,,,5,5,484
+485,Köhnə tikili,77,3,yoxdur,165000,vasitəçi (agent),105,Space TV,Yasamal r.,,,,,,,,,3,5,485
+486,Yeni tikili,111,3,yoxdur,260000,mülkiyyətçi,859,Elmlər Akademiyası m.,Yasamal r.,,,,,,,,,9,18,486
+487,Köhnə tikili,46,2,var,100000,mülkiyyətçi,218,Elmlər Akademiyası m.,,,,,,,,,,4,5,487
+488,Yeni tikili,130,3,var,239000,mülkiyyətçi,5588,Cavanşir körpüsü,Nəsimi r.,,,,,,,,,15,19,488
+489,Köhnə tikili,54,2,yoxdur,133000,vasitəçi (agent),120,Hüseyn Cavid parkı,Texniki Universiteti,Elmlər Akademiyası m.,Yasamal r.,,,,,,,5,5,489
+490,Köhnə tikili,88,3,var,149000,vasitəçi (agent),482,Park Zorge,Nəsimi bazarı,Koala parkı,Nəsimi r.,,,,,,,3,9,490
+491,Yeni tikili,157,3,var,245000,vasitəçi (agent),177,Dostluq kinoteatrı,Azərbaycan Dillər Universiteti,Koala parkı,Sirk,Bakı Slavyan Universiteti,Nəsimi r.,,,,,13,17,491
+492,Yeni tikili,30,1,var,55500,vasitəçi (agent),1090,20 Yanvar m.,Yasamal r.,,,,,,,,,17,21,492
+493,Yeni tikili,184,4,var,450000,vasitəçi (agent),113,Koala parkı,Dostluq kinoteatrı,Nəsimi bazarı,Park Zorge,Nəsimi r.,,,,,,16,19,493
+494,Köhnə tikili,87,3,var,185000,vasitəçi (agent),330,Dövlət Statistika Komitəsi,İncəsənət və Mədəniyyət Un.,Nizami m.,Yasamal r.,,,,,,,2,5,494
+495,Yeni tikili,136,3,yoxdur,225000,vasitəçi (agent),409,Nizami m.,Zabitlər parkı,Yasamal r.,Yasamal q.,,,,,,,5,12,495
+496,Yeni tikili,91,3,var,90000,mülkiyyətçi,168,Abşeron r.,Masazır q.,,,,,,,,,2,10,496
+497,Yeni tikili,51,2,yoxdur,65000,vasitəçi (agent),213,20 Yanvar m.,Yasamal r.,Yeni Yasamal q.,,,,,,,,7,24,497
+498,Yeni tikili,100,3,var,212000,vasitəçi (agent),133,Zabitlər parkı,Sirk,Azərbaycan Dillər Universiteti,Nəsimi r.,,,,,,,4,15,498
+499,Köhnə tikili,45,2,var,68000,vasitəçi (agent),607,Memar Əcəmi m.,Nəsimi r.,3-cü mikrorayon q.,,,,,,,,3,5,499
+500,Yeni tikili,170,4,var,135000,vasitəçi (agent),203,Yasamal r.,Yeni Yasamal q.,,,,,,,,,17,17,500
+501,Yeni tikili,142,4,yoxdur,145000,vasitəçi (agent),317,İnşaatçılar m.,Yasamal r.,Yeni Yasamal q.,,,,,,,,21,22,501
+502,Yeni tikili,81,3,yoxdur,195000,vasitəçi (agent),120,Ağ şəhər,Xətai r.,,,,,,,,,7,7,502
+503,Yeni tikili,75,3,yoxdur,155000,vasitəçi (agent),190,İnşaatçılar m.,Yasamal r.,,,,,,,,,14,18,503
+504,Yeni tikili,96,2,var,345000,mülkiyyətçi,1458,Sirk,Zabitlər parkı,Azərbaycan Dillər Universiteti,Bakı Slavyan Universiteti,Nəsimi r.,,,,,,7,16,504
+505,Köhnə tikili,83,4,var,77000,mülkiyyətçi,1216,Sumqayıt,,,,,,,,,,3,3,505
+506,Yeni tikili,165,3,var,319000,mülkiyyətçi,8906,Cavanşir körpüsü,Nəsimi r.,,,,,,,,,7,19,506
+507,Yeni tikili,153,4,yoxdur,210000,mülkiyyətçi,176,Nəriman Nərimanov m.,Bakmil m.,Nərimanov r.,,,,,,,,13,19,507
+508,Yeni tikili,151,3,var,272000,vasitəçi (agent),642,Koala parkı,Dostluq kinoteatrı,Nəsimi bazarı,Zoopark,Nəsimi r.,,,,,,12,18,508
+509,Yeni tikili,98,2,yoxdur,110000,vasitəçi (agent),410,Neftçi bazası,TQDK,Nəsimi r.,,,,,,,,17,18,509
+510,Yeni tikili,147,3,var,850000,vasitəçi (agent),281,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,16,19,510
+511,Yeni tikili,100,3,var,175000,vasitəçi (agent),309,Memar Əcəmi m.,Nəsimi r.,4-cü mikrorayon q.,,,,,,,,6,12,511
+512,Yeni tikili,123,3,yoxdur,150000,vasitəçi (agent),211,Tibb Universiteti,Nəsimi r.,,,,,,,,,14,18,512
+513,Yeni tikili,320,6,var,550000,mülkiyyətçi,2964,Neftçi bazası,Nərimanov r.,,,,,,,,,12,13,513
+514,Yeni tikili,177.8,4,yoxdur,248920,mülkiyyətçi,20587,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,7,16,514
+515,Yeni tikili,210,4,var,350000,vasitəçi (agent),466,Nəsimi r.,,,,,,,,,,15,18,515
+516,Yeni tikili,180,4,var,300000,vasitəçi (agent),145,Tibb Universiteti,Nəsimi r.,,,,,,,,,6,16,516
+517,Köhnə tikili,60,2,var,65000,mülkiyyətçi,243,Həzi Aslanov m.,Xətai r.,Əhmədli q.,,,,,,,,9,9,517
+518,Yeni tikili,102,2,yoxdur,135000,vasitəçi (agent),589,Zərifə Əliyeva adına park,Nəsimi r.,,,,,,,,,12,16,518
+519,Yeni tikili,114,3,var,185000,vasitəçi (agent),147,Səbail r.,Bayıl q.,,,,,,,,,2,20,519
+520,Yeni tikili,152,4,yoxdur,295000,vasitəçi (agent),122,Yasamal r.,,,,,,,,,,6,18,520
+521,Yeni tikili,217,4,var,295000,vasitəçi (agent),247,İdman kompleksi,Yasamal r.,,,,,,,,,8,18,521
+522,Yeni tikili,107.5,3,yoxdur,138000,mülkiyyətçi,2328,Qara Qarayev m.,Nizami r.,,,,,,,,,16,17,522
+523,Köhnə tikili,30,1,var,59750,mülkiyyətçi,253,Səbail r.,Bayıl q.,,,,,,,,,4,5,523
+524,Yeni tikili,110,3,var,300000,vasitəçi (agent),150,Axundov bağı,İqsadiyyat Universiteti,Dövlət İdarəçilik Akademiyası,Sovetski,İçəri Şəhər m.,Nərimanov heykəli,Prezident parkı,Qubernator parkı,M.Ə.Sabir parkı,Səbail r.,13,14,524
+525,Yeni tikili,157,4,var,280000,vasitəçi (agent),650,Rəssamlıq Akademiyası,Nərimanov r.,,,,,,,,,15,17,525
+526,Yeni tikili,70,2,var,89000,mülkiyyətçi,167,Ukrayna dairəsi,Həzi Aslanov m.,Xətai r.,Əhmədli q.,,,,,,,12,13,526
+527,Köhnə tikili,45,1,var,85000,vasitəçi (agent),289,Səməd Vurğun parkı,Port Baku,28 May m.,Səbail r.,,,,,,,5,5,527
+528,Yeni tikili,85,2,yoxdur,102000,vasitəçi (agent),143,Yasamal r.,Yeni Yasamal q.,,,,,,,,,13,14,528
+529,Yeni tikili,56,2,var,58000,vasitəçi (agent),123,Sumqayıt,,,,,,,,,,7,12,529
+530,Yeni tikili,103,3,yoxdur,200000,vasitəçi (agent),304,Elmlər Akademiyası m.,Yasamal r.,,,,,,,,,5,15,530
+531,Köhnə tikili,155,5,var,390000,mülkiyyətçi,937,Pedaqoji Universiteti,Malokan bağı,Sahil bağı,Milli Konservatoriya,Nizami kinoteatrı,Bakı Musiqi Akademiyası,Neft Akademiyası,Sahil m.,28 May m.,,2,5,531
+532,Köhnə tikili,70,3,var,130000,mülkiyyətçi,214,Binəqədi r.,8-ci mikrorayon q.,,,,,,,,,2,9,532
+533,Yeni tikili,128,3,var,330000,vasitəçi (agent),144,Axundov bağı,İqsadiyyat Universiteti,Dövlət İdarəçilik Akademiyası,Sovetski,İçəri Şəhər m.,Nərimanov heykəli,Prezident parkı,Qubernator parkı,M.Ə.Sabir parkı,Səbail r.,12,14,533
+534,Yeni tikili,120,3,yoxdur,220000,vasitəçi (agent),1848,Rəssamlıq Akademiyası,Nərimanov r.,,,,,,,,,12,16,534
+535,Köhnə tikili,85,3,var,150000,vasitəçi (agent),328,Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.,,,,,,,,5,5,535
+536,Köhnə tikili,54,2,var,133000,vasitəçi (agent),152,Hüseyn Cavid parkı,Texniki Universiteti,Elmlər Akademiyası m.,Yasamal r.,,,,,,,5,5,536
+537,Yeni tikili,63,2,yoxdur,88000,mülkiyyətçi,138,Əhmədli m.,Ukrayna dairəsi,Xətai r.,Əhmədli q.,,,,,,,16,17,537
+538,Yeni tikili,187,4,var,280000,mülkiyyətçi,180,Gənclik m.,Respublika stadionu,Nərimanov r.,,,,,,,,15,17,538
+539,Yeni tikili,100,2,var,168000,vasitəçi (agent),95,Ayna Sultanova heykəli,Nərimanov r.,,,,,,,,,7,7,539
+540,Yeni tikili,60,2,var,67000,vasitəçi (agent),182,Xətai r.,Əhmədli q.,,,,,,,,,1,16,540
+541,Köhnə tikili,55,2,var,78000,vasitəçi (agent),410,Memar Əcəmi m.,Nəsimi r.,4-cü mikrorayon q.,,,,,,,,2,5,541
+542,Yeni tikili,87,2,yoxdur,121000,vasitəçi (agent),129,Binəqədi r.,7-ci mikrorayon q.,,,,,,,,,17,19,542
+543,Yeni tikili,101,3,var,160000,mülkiyyətçi,451,Park Zorge,Rusiya səfirliyi,Tibb Universiteti,Nəsimi r.,,,,,,,5,15,543
+544,Yeni tikili,89.1,2,yoxdur,68000,vasitəçi (agent),190,Yasamal r.,Yeni Yasamal q.,,,,,,,,,14,18,544
+545,Yeni tikili,56,1,yoxdur,60000,vasitəçi (agent),221,Yasamal r.,,,,,,,,,,17,18,545
+546,Yeni tikili,100,2,var,150000,mülkiyyətçi,228,Nəriman Nərimanov parkı,Rəssamlıq Akademiyası,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,4,18,546
+547,Yeni tikili,205,5,yoxdur,350000,vasitəçi (agent),101,Yasamal r.,,,,,,,,,,9,18,547
+548,Yeni tikili,48,1,yoxdur,65000,vasitəçi (agent),271,Yasamal r.,Yeni Yasamal q.,,,,,,,,,10,20,548
+549,Yeni tikili,93,3,var,155000,vasitəçi (agent),470,20 Yanvar m.,Yasamal r.,Yasamal q.,,,,,,,,12,16,549
+550,Yeni tikili,64,1,yoxdur,75000,mülkiyyətçi,1640,Yasamal r.,,,,,,,,,,3,16,550
+551,Yeni tikili,115,3,yoxdur,215000,mülkiyyətçi,4818,Yasamal bazarı,İnşaatçılar m.,Yasamal r.,,,,,,,,6,18,551
+552,Yeni tikili,105,3,var,240000,vasitəçi (agent),94,Cavanşir körpüsü,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,15,19,552
+553,Yeni tikili,86,2,yoxdur,88000,mülkiyyətçi,182,Yasamal r.,Yeni Yasamal q.,,,,,,,,,12,17,553
+554,Yeni tikili,177,4,var,280000,vasitəçi (agent),200,Neftçi bazası,Nəsimi r.,,,,,,,,,10,16,554
+555,Yeni tikili,68,3,var,75000,mülkiyyətçi,159,Abşeron r.,,,,,,,,,,9,16,555
+556,Yeni tikili,154,4,var,320000,mülkiyyətçi,138,Bakı Slavyan Universiteti,Azərbaycan Dillər Universiteti,28 May m.,Nəsimi r.,,,,,,,9,14,556
+557,Köhnə tikili,72,3,var,132000,vasitəçi (agent),101,Memarlıq və İnşaat Universiteti,Bakı Dövlət Universiteti,Texniki Universiteti,Yasamal r.,,,,,,,4,5,557
+558,Köhnə tikili,78,3,var,130000,vasitəçi (agent),182,Elmlər Akademiyası m.,Hüseyn Cavid parkı,Texniki Universiteti,Yasamal r.,,,,,,,3,5,558
+559,Köhnə tikili,64,3,var,126000,mülkiyyətçi,1295,Səbail r.,Bayıl q.,,,,,,,,,2,2,559
+560,Yeni tikili,140,4,var,295000,mülkiyyətçi,6506,Binəqədi r.,,,,,,,,,,3,17,560
+561,Yeni tikili,133,3,var,195000,vasitəçi (agent),2696,20 Yanvar m.,Yasamal r.,Yasamal q.,,,,,,,,4,10,561
+562,Yeni tikili,220,3,yoxdur,230000,vasitəçi (agent),326,Nizami m.,Beşmərtəbə,Nəsimi r.,,,,,,,,22,22,562
+563,Köhnə tikili,62,2,var,72000,vasitəçi (agent),228,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,,9,9,563
+564,Köhnə tikili,40,2,var,43000,mülkiyyətçi,168,Sabunçu r.,Sabunçu q.,,,,,,,,,2,2,564
+565,Yeni tikili,174,3,var,280000,vasitəçi (agent),223,Elmlər Akademiyası m.,İncəsənət və Mədəniyyət Un.,Yasamal r.,,,,,,,,11,17,565
+566,Yeni tikili,105,3,yoxdur,145000,vasitəçi (agent),267,Nərimanov r.,,,,,,,,,,9,16,566
+567,Yeni tikili,88,2,var,180000,vasitəçi (agent),304,Şah İsmayıl Xətai m.,Cavanşir körpüsü,Xətai r.,,,,,,,,12,20,567
+568,Yeni tikili,115,3,yoxdur,220000,mülkiyyətçi,15946,Yasamal bazarı,Yasamal r.,,,,,,,,,6,16,568
+569,Yeni tikili,155,4,var,340000,mülkiyyətçi,5341,Nizami m.,Elmlər Akademiyası m.,Yasamal r.,,,,,,,,12,15,569
+570,Yeni tikili,125,3,yoxdur,210000,vasitəçi (agent),128,28 May m.,Bakı Slavyan Universiteti,Neft Akademiyası,Nərimanov r.,,,,,,,3,13,570
+571,Köhnə tikili,91,3,var,115000,mülkiyyətçi,359,Neftçi bazası,Nərimanov r.,,,,,,,,,8,9,571
+572,Yeni tikili,97,2,yoxdur,110000,vasitəçi (agent),1986,Koala parkı,Zoopark,Dostluq kinoteatrı,Nəsimi bazarı,Nəsimi r.,,,,,,16,17,572
+573,Yeni tikili,160,4,var,450000,vasitəçi (agent),119,28 May m.,Neft Akademiyası,Səməd Vurğun parkı,Bakı Musiqi Akademiyası,Nəsimi r.,,,,,,5,22,573
+574,Yeni tikili,176,4,var,287000,vasitəçi (agent),3091,Dövlət Statistika Komitəsi,M.Hüseynzadə parkı,Nizami m.,Yasamal r.,,,,,,,9,18,574
+575,Yeni tikili,70,2,var,91000,mülkiyyətçi,4079,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,5,16,575
+576,Yeni tikili,96,2,yoxdur,150000,vasitəçi (agent),302,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,17,21,576
+577,Yeni tikili,110,3,yoxdur,250000,mülkiyyətçi,3120,Elmlər Akademiyası m.,Yasamal r.,Yasamal q.,,,,,,,,6,17,577
+578,Köhnə tikili,60,2,var,107000,vasitəçi (agent),197,Nəriman Nərimanov parkı,Nəriman Nərimanov m.,Rəssamlıq Akademiyası,Nərimanov r.,,,,,,,4,5,578
+579,Köhnə tikili,65,3,var,118500,vasitəçi (agent),307,Səbail r.,,,,,,,,,,1,5,579
+580,Köhnə tikili,100,4,var,145000,vasitəçi (agent),155,Yasamal bazarı,İnşaatçılar m.,Yasamal r.,,,,,,,,3,9,580
+581,Yeni tikili,71,2,var,115000,mülkiyyətçi,765,Qara Qarayev m.,Nizami r.,8-ci kilometr q.,,,,,,,,14,18,581
+582,Yeni tikili,56,2,yoxdur,46500,vasitəçi (agent),153,Abşeron r.,Masazır q.,,,,,,,,,5,6,582
+583,Yeni tikili,165,4,yoxdur,310000,vasitəçi (agent),1016,Yasamal r.,,,,,,,,,,12,18,583
+584,Yeni tikili,66,1,var,77800,vasitəçi (agent),355,Səbail r.,Badamdar q.,,,,,,,,,2,15,584
+585,Yeni tikili,94,2,var,190000,vasitəçi (agent),549,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,17,18,585
+586,Yeni tikili,90,2,var,125000,vasitəçi (agent),387,İdman kompleksi,Nəsimi r.,,,,,,,,,5,15,586
+587,Yeni tikili,140,4,var,275000,vasitəçi (agent),1642,Səbail r.,,,,,,,,,,3,5,587
+588,Yeni tikili,87,2,var,180000,vasitəçi (agent),101,Şah İsmayıl Xətai m.,Cavanşir körpüsü,Xətai r.,,,,,,,,15,20,588
+589,Köhnə tikili,55,2,var,73000,vasitəçi (agent),2615,20 Yanvar m.,Memar Əcəmi m.,Nəsimi r.,,,,,,,,1,5,589
+590,Köhnə tikili,60,2,var,80000,vasitəçi (agent),1304,Qara Qarayev m.,Nizami r.,,,,,,,,,7,9,590
+591,Yeni tikili,98,3,yoxdur,188000,vasitəçi (agent),147,Yasamal bazarı,İnşaatçılar m.,Yasamal r.,,,,,,,,7,20,591
+592,Yeni tikili,214,4,var,320000,vasitəçi (agent),1202,Dövlət Statistika Komitəsi,İzmir parkı,M.Hüseynzadə parkı,Nizami m.,Yasamal r.,,,,,,6,20,592
+593,Yeni tikili,82,3,var,117000,vasitəçi (agent),438,Səbail r.,Badamdar q.,,,,,,,,,15,15,593
+594,Köhnə tikili,70,2,var,79000,vasitəçi (agent),155,Neapol dairəsi,Əhmədli m.,Xətai r.,Əhmədli q.,,,,,,,1,9,594
+595,Köhnə tikili,90,3,var,95000,vasitəçi (agent),405,Həzi Aslanov m.,Xətai r.,Əhmədli q.,,,,,,,,6,9,595
+596,Yeni tikili,106,2,var,255000,vasitəçi (agent),147,Axundov bağı,İqsadiyyat Universiteti,Dövlət İdarəçilik Akademiyası,Sovetski,İçəri Şəhər m.,Nərimanov heykəli,Prezident parkı,Qubernator parkı,M.Ə.Sabir parkı,Səbail r.,12,14,596
+597,Yeni tikili,70,1,yoxdur,84000,vasitəçi (agent),253,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,,,4,16,597
+598,Yeni tikili,130,3,yoxdur,120000,vasitəçi (agent),1856,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,,12,18,598
+599,Yeni tikili,73,2,var,66000,vasitəçi (agent),627,Sabunçu r.,Bakıxanov q.,,,,,,,,,3,12,599
+600,Yeni tikili,72,3,var,85000,vasitəçi (agent),1485,Yasamal r.,,,,,,,,,,10,20,600
+601,Köhnə tikili,42,2,var,49000,vasitəçi (agent),377,Xətai r.,,,,,,,,,,8,9,601
+602,Yeni tikili,98,3,var,215000,vasitəçi (agent),172,Zabitlər parkı,Rusiya səfirliyi,Sevil Qazıyeva parkı,Sirk,Nəsimi r.,,,,,,4,17,602
+603,Yeni tikili,95,2,var,70800,mülkiyyətçi,147,Xırdalan,,,,,,,,,,11,15,603
+604,Yeni tikili,74,2,var,100000,vasitəçi (agent),370,Zərifə Əliyeva adına park,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,9,16,604
+605,Köhnə tikili,33,2,var,75000,vasitəçi (agent),195,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,,,4,5,605
+606,Yeni tikili,165,4,var,350000,vasitəçi (agent),127,Zabitlər parkı,Sirk,Rusiya səfirliyi,Nəsimi r.,,,,,,,6,15,606
+607,Yeni tikili,110,3,yoxdur,105000,vasitəçi (agent),5543,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,,17,17,607
+608,Yeni tikili,60,2,yoxdur,92000,mülkiyyətçi,418,Qara Qarayev m.,Nizami r.,8-ci kilometr q.,,,,,,,,8,18,608
+609,Yeni tikili,62,2,yoxdur,37000,vasitəçi (agent),239,Xırdalan,,,,,,,,,,7,16,609
+610,Yeni tikili,178,4,yoxdur,220000,vasitəçi (agent),137,Yasamal r.,,,,,,,,,,14,27,610
+611,Yeni tikili,93,2,yoxdur,125000,vasitəçi (agent),104,Binəqədi r.,7-ci mikrorayon q.,,,,,,,,,3,18,611
+612,Yeni tikili,70,2,yoxdur,99000,mülkiyyətçi,221,Bakı Asiya Universiteti,Nəsimi r.,,,,,,,,,10,18,612
+613,Yeni tikili,91,2,yoxdur,50000,mülkiyyətçi,424,Yasamal r.,Yeni Yasamal q.,,,,,,,,,7,16,613
+614,Yeni tikili,145,3,yoxdur,200000,vasitəçi (agent),170,Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.,,,,,,,,10,16,614
+615,Yeni tikili,150,3,yoxdur,205000,vasitəçi (agent),129,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,11,16,615
+616,Yeni tikili,186,4,var,290000,mülkiyyətçi,647,Şərq bazarı,Nərimanov r.,,,,,,,,,2,17,616
+617,Köhnə tikili,62,3,var,98000,vasitəçi (agent),241,İnşaatçılar m.,Yasamal r.,,,,,,,,,3,9,617
+618,Köhnə tikili,100,4,var,150000,vasitəçi (agent),1364,Montin bazarı,Nərimanov r.,,,,,,,,,9,10,618
+619,Köhnə tikili,70,3,var,119000,mülkiyyətçi,4470,İncəsənət və Mədəniyyət Un.,Dövlət Statistika Komitəsi,Nizami m.,Yasamal r.,,,,,,,15,17,619
+620,Yeni tikili,99.4,2,yoxdur,150000,mülkiyyətçi,114,Nəsimi bazarı,Koala parkı,Dostluq kinoteatrı,Nəsimi r.,,,,,,,11,12,620
+621,Yeni tikili,50,2,yoxdur,49000,vasitəçi (agent),252,Bakı Asiya Universiteti,Nəsimi r.,,,,,,,,,19,19,621
+622,Yeni tikili,70,2,yoxdur,110000,vasitəçi (agent),262,Nizami r.,8-ci kilometr q.,,,,,,,,,6,18,622
+623,Köhnə tikili,100,4,var,175000,vasitəçi (agent),116,Azadlıq Prospekti m.,Binəqədi r.,8-ci mikrorayon q.,,,,,,,,4,5,623
+624,Yeni tikili,85,3,yoxdur,86000,vasitəçi (agent),177,Yasamal r.,Yeni Yasamal q.,,,,,,,,,14,14,624
+625,Yeni tikili,155,3,var,286000,vasitəçi (agent),841,Zərifə Əliyeva adına park,Binəqədi r.,,,,,,,,,13,14,625
+626,Köhnə tikili,33,1,var,48000,vasitəçi (agent),257,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,,1,5,626
+627,Yeni tikili,52,1,yoxdur,75500,mülkiyyətçi,1982,İnşaatçılar m.,Yasamal r.,,,,,,,,,9,19,627
+628,Köhnə tikili,85,3,yoxdur,137000,vasitəçi (agent),300,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,1,7,628
+629,Köhnə tikili,58,2,var,138000,vasitəçi (agent),400,Texniki Universiteti,Hüseyn Cavid parkı,Memarlıq və İnşaat Universiteti,Elmlər Akademiyası m.,Yasamal r.,,,,,,5,5,629
+630,Yeni tikili,55,2,yoxdur,66500,vasitəçi (agent),191,Binəqədi r.,8-ci mikrorayon q.,,,,,,,,,17,17,630
+631,Yeni tikili,64,2,var,140000,mülkiyyətçi,300,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,4,20,631
+632,Köhnə tikili,80,3,var,85000,vasitəçi (agent),196,Bakı,,,,,,,,,,5,5,632
+633,Köhnə tikili,70,3,var,114000,vasitəçi (agent),183,Xalqlar Dostluğu m.,Nizami r.,,,,,,,,,5,9,633
+634,Yeni tikili,143,3,var,195000,vasitəçi (agent),545,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,,11,17,634
+635,Yeni tikili,220,4,var,575000,mülkiyyətçi,23314,Azərbaycan turizm institutu,Gənclik m.,Nərimanov r.,,,,,,,,8,11,635
+636,Köhnə tikili,76,3,var,95000,vasitəçi (agent),108,Xətai r.,,,,,,,,,,6,9,636
+637,Köhnə tikili,110,3,var,155000,vasitəçi (agent),869,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,2,5,637
+638,Yeni tikili,115,3,yoxdur,106000,vasitəçi (agent),185,Yasamal r.,Yeni Yasamal q.,,,,,,,,,18,21,638
+639,Yeni tikili,28,1,var,59500,mülkiyyətçi,385,Yasamal r.,Yasamal q.,,,,,,,,,3,16,639
+640,Yeni tikili,50,2,var,80000,vasitəçi (agent),277,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,,16,19,640
+641,Yeni tikili,169,4,var,400000,vasitəçi (agent),433,Bakı Dövlət Universiteti,Elmlər Akademiyası m.,Yasamal r.,,,,,,,,9,18,641
+642,Yeni tikili,117,3,var,210000,vasitəçi (agent),115,Zabitlər parkı,Sirk,Azərbaycan Dillər Universiteti,Nəsimi r.,,,,,,,3,17,642
+643,Yeni tikili,145,4,yoxdur,180000,vasitəçi (agent),767,Yasamal r.,Yasamal q.,,,,,,,,,12,17,643
+644,Yeni tikili,70,2,var,136000,mülkiyyətçi,893,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,12,21,644
+645,Köhnə tikili,100,4,yoxdur,155000,vasitəçi (agent),180,Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.,,,,,,,,3,9,645
+646,Köhnə tikili,80,3,var,129000,vasitəçi (agent),2256,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,9,9,646
+647,Yeni tikili,58,2,var,125000,mülkiyyətçi,1667,Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.,,,,,,,,7,16,647
+648,Yeni tikili,130,3,yoxdur,280000,mülkiyyətçi,1893,Bakı Asiya Universiteti,Nəsimi r.,,,,,,,,,6,12,648
+649,Yeni tikili,62,2,var,95000,vasitəçi (agent),617,20 Yanvar m.,Yasamal r.,,,,,,,,,12,20,649
+650,Yeni tikili,170,4,var,309000,vasitəçi (agent),315,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,16,18,650
+651,Köhnə tikili,140,5,var,193000,vasitəçi (agent),176,TQDK,Neftçi bazası,Nərimanov r.,,,,,,,,3,9,651
+652,Yeni tikili,121.5,3,yoxdur,80000,mülkiyyətçi,121,Abşeron r.,Masazır q.,,,,,,,,,6,8,652
+653,Yeni tikili,100,2,var,150000,vasitəçi (agent),654,Nizami m.,Dövlət Statistika Komitəsi,İncəsənət və Mədəniyyət Un.,Yasamal r.,,,,,,,5,15,653
+654,Köhnə tikili,100,3,var,110000,vasitəçi (agent),120,Nizami r.,,,,,,,,,,4,7,654
+655,Köhnə tikili,85,3,var,115000,vasitəçi (agent),370,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,9,9,655
+656,Yeni tikili,116,3,var,173000,vasitəçi (agent),309,Memar Əcəmi m.,Nəsimi r.,,,,,,,,,4,8,656
+657,Yeni tikili,180,4,var,325000,vasitəçi (agent),318,Tibb Universiteti,İdman kompleksi,Nəsimi r.,,,,,,,,6,17,657
+658,Yeni tikili,172,4,yoxdur,146200,201,Dünən 20,Nərimanov r.,,,,,,,,,,10,21,658
+659,Yeni tikili,191,4,yoxdur,210000,mülkiyyətçi,286,Neftçilər m.,Nizami r.,,,,,,,,,10,17,659
+660,Yeni tikili,145,3,yoxdur,125000,mülkiyyətçi,254,Nizami r.,8-ci kilometr q.,,,,,,,,,9,18,660
+661,Köhnə tikili,62,3,var,118000,vasitəçi (agent),1124,Rusiya səfirliyi,Park Zorge,Sevil Qazıyeva parkı,Nəsimi r.,,,,,,,4,5,661
+662,Köhnə tikili,47,2,var,88000,vasitəçi (agent),509,Nəriman Nərimanov parkı,Nəriman Nərimanov m.,Rəssamlıq Akademiyası,Nərimanov r.,,,,,,,4,5,662
+663,Köhnə tikili,50,2,var,57000,vasitəçi (agent),484,Nərimanov r.,,,,,,,,,,5,9,663
+664,Köhnə tikili,120,4,var,175000,vasitəçi (agent),537,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,4,4,664
+665,Köhnə tikili,120,5,var,127000,vasitəçi (agent),108,Neapol dairəsi,Xətai r.,,,,,,,,,8,9,665
+666,Yeni tikili,135,3,var,289000,mülkiyyətçi,10058,İncəsənət və Mədəniyyət Un.,Nizami m.,Yasamal r.,,,,,,,,12,15,666
+667,Yeni tikili,183.3,4,var,250000,mülkiyyətçi,230,Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.,,,,,,,,16,17,667
+668,Köhnə tikili,45,2,var,85000,vasitəçi (agent),146,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,,,5,5,668
+669,Yeni tikili,140,3,var,245000,mülkiyyətçi,1451,Bakı Slavyan Universiteti,Azərbaycan Dillər Universiteti,28 May m.,Nəsimi r.,,,,,,,5,12,669
+670,Yeni tikili,144,4,yoxdur,225000,vasitəçi (agent),702,Bakı Asiya Universiteti,Nəsimi r.,,,,,,,,,14,17,670
+671,Yeni tikili,129,3,var,240000,vasitəçi (agent),202,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,,,6,17,671
+672,Köhnə tikili,80,3,var,107000,vasitəçi (agent),143,Nizami r.,8-ci kilometr q.,,,,,,,,,5,9,672
+673,Köhnə tikili,57,2,var,74000,vasitəçi (agent),182,Yasamal r.,Yeni Yasamal q.,,,,,,,,,4,9,673
+674,Yeni tikili,109,3,var,98000,mülkiyyətçi,965,Qaradağ r.,Lökbatan q.,,,,,,,,,8,9,674
+675,Yeni tikili,60,2,var,125000,vasitəçi (agent),164,Təhsil Nazirliyi,Nərimanov r.,,,,,,,,,10,17,675
+676,Köhnə tikili,80,2,var,205000,mülkiyyətçi,191,Qubernator parkı,Prezident parkı,İçəri Şəhər m.,Dövlət İdarəçilik Akademiyası,Şəlalə parkı,Azneft meydanı,Axundov bağı,İqsadiyyat Universiteti,İçəri Şəhər,Səbail r.,2,4,676
+677,Yeni tikili,236,4,yoxdur,250000,vasitəçi (agent),2830,İnşaatçılar m.,Yasamal r.,,,,,,,,,12,16,677
+678,Köhnə tikili,117,4,var,260000,vasitəçi (agent),156,Dövlət Statistika Komitəsi,İzmir parkı,M.Hüseynzadə parkı,Yasamal r.,,,,,,,2,5,678
+679,Yeni tikili,55,2,yoxdur,75000,vasitəçi (agent),3244,Memar Əcəmi m.,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,6,16,679
+680,Köhnə tikili,55,2,var,105000,vasitəçi (agent),164,Elmlər Akademiyası m.,Hüseyn Cavid parkı,Yasamal r.,,,,,,,,5,5,680
+681,Köhnə tikili,58,2,var,82000,vasitəçi (agent),195,28 May m.,Səməd Vurğun parkı,Neft Akademiyası,Nəsimi r.,,,,,,,5,5,681
+682,Yeni tikili,54,2,var,94000,vasitəçi (agent),123,Yasamal r.,Yeni Yasamal q.,,,,,,,,,8,19,682
+683,Yeni tikili,224,4,var,420000,vasitəçi (agent),196,Nəsimi bazarı,TQDK,Nəsimi r.,,,,,,,,5,16,683
+684,Köhnə tikili,70,3,var,95000,vasitəçi (agent),142,Memar Əcəmi m.,Nəsimi r.,4-cü mikrorayon q.,,,,,,,,1,5,684
+685,Yeni tikili,68,2,yoxdur,120000,mülkiyyətçi,318,Tibb Universiteti,Nəsimi r.,,,,,,,,,6,18,685
+686,Yeni tikili,94,2,var,150000,vasitəçi (agent),125,Nəsimi r.,,,,,,,,,,14,19,686
+687,Yeni tikili,82.5,2,var,108000,vasitəçi (agent),164,Yasamal r.,Yeni Yasamal q.,,,,,,,,,6,10,687
+688,Yeni tikili,114,3,yoxdur,135000,vasitəçi (agent),1954,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,,17,17,688
+689,Yeni tikili,196,4,var,700000,mülkiyyətçi,1674,Sevil Qazıyeva parkı,M.Hüseynzadə parkı,Rusiya səfirliyi,Yasamal r.,Yasamal q.,,,,,,6,14,689
+690,Yeni tikili,105,2,yoxdur,145000,mülkiyyətçi,120,Neftçi bazası,Nəsimi r.,,,,,,,,,11,17,690
+691,Yeni tikili,110,3,yoxdur,165000,vasitəçi (agent),128,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,,10,16,691
+692,Yeni tikili,127,3,var,172000,vasitəçi (agent),141,Ayna Sultanova heykəli,Nərimanov r.,,,,,,,,,5,7,692
+693,Yeni tikili,164,3,yoxdur,215000,vasitəçi (agent),110,Tibb Universiteti,Nəsimi r.,,,,,,,,,10,16,693
+694,Köhnə tikili,1,var,,47500,676,Bugün 13,Yasamal r.,Yasamal q.,,,,,,,,,30 m²,,694
+695,Yeni tikili,135.6,3,yoxdur,135500,mülkiyyətçi,222,Bakı Asiya Universiteti,Nəsimi r.,,,,,,,,,16,20,695
+696,Yeni tikili,110,3,var,200000,vasitəçi (agent),136,Nizami m.,Beşmərtəbə,Yasamal r.,,,,,,,,3,12,696
+697,Yeni tikili,68,1,yoxdur,105000,vasitəçi (agent),3296,Yasamal r.,,,,,,,,,,8,16,697
+698,Köhnə tikili,90,3,var,115000,vasitəçi (agent),264,Xalqlar Dostluğu m.,Nizami r.,,,,,,,,,2,9,698
+699,Yeni tikili,52,2,yoxdur,78000,vasitəçi (agent),173,Yasamal r.,Yeni Yasamal q.,,,,,,,,,10,12,699
+700,Köhnə tikili,130,5,var,177000,vasitəçi (agent),101,Ayna Sultanova heykəli,Binəqədi r.,,,,,,,,,3,5,700
+701,Köhnə tikili,65,2,var,99000,vasitəçi (agent),173,Yasamal r.,,,,,,,,,,11,12,701
+702,Yeni tikili,82,2,var,130000,vasitəçi (agent),1001,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,4,12,702
+703,Yeni tikili,68,2,yoxdur,112000,mülkiyyətçi,1301,Zərifə Əliyeva adına park,Nəsimi r.,4-cü mikrorayon q.,,,,,,,,9,17,703
+704,Yeni tikili,60,2,var,77000,vasitəçi (agent),299,Xalqlar Dostluğu m.,Nizami r.,8-ci kilometr q.,,,,,,,,16,18,704
+705,Yeni tikili,165,4,var,350000,vasitəçi (agent),123,Park Zorge,Koala parkı,Nəsimi bazarı,Dostluq kinoteatrı,Rusiya səfirliyi,Nəsimi r.,,,,,10,17,705
+706,Yeni tikili,210,4,var,599000,mülkiyyətçi,1917,Bakı Slavyan Universiteti,Azərbaycan Dillər Universiteti,Sirk,28 May m.,Nəsimi r.,,,,,,14,19,706
+707,Köhnə tikili,30,2,var,56000,vasitəçi (agent),264,Memar Əcəmi m.,Nəsimi r.,5-ci mikrorayon q.,,,,,,,,4,5,707
+708,Yeni tikili,215,3,var,585000,vasitəçi (agent),1059,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,10,24,708
+709,Köhnə tikili,33,1,var,49500,vasitəçi (agent),239,20 Yanvar m.,Memar Əcəmi m.,Nəsimi r.,,,,,,,,5,5,709
+710,Köhnə tikili,90,3,var,202000,vasitəçi (agent),256,Dövlət Statistika Komitəsi,İncəsənət və Mədəniyyət Un.,Nizami m.,Yasamal r.,,,,,,,2,5,710
+711,Yeni tikili,97,3,yoxdur,131000,vasitəçi (agent),283,Tibb Universiteti,Neftçi bazası,Nərimanov r.,,,,,,,,15,17,711
+712,Köhnə tikili,45,2,var,110000,mülkiyyətçi,1499,Cavanşir körpüsü,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,2,5,712
+713,Yeni tikili,125,3,var,310000,vasitəçi (agent),814,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,14,18,713
+714,Köhnə tikili,55,2,var,133000,vasitəçi (agent),167,Hüseyn Cavid parkı,Texniki Universiteti,Sovetski,Elmlər Akademiyası m.,Yasamal r.,,,,,,5,5,714
+715,Yeni tikili,115,3,yoxdur,102600,mülkiyyətçi,2911,Bakı Asiya Universiteti,Nəsimi r.,3-cü mikrorayon q.,,,,,,,,17,18,715
+716,Köhnə tikili,85,3,var,155000,vasitəçi (agent),195,Azərbaycan turizm institutu,Respublika stadionu,Gənclik m.,Nərimanov r.,,,,,,,8,10,716
+717,Yeni tikili,151,3,var,300000,vasitəçi (agent),107,Gənclik m.,Respublika stadionu,Nərimanov r.,,,,,,,,7,16,717
+718,Yeni tikili,110,3,var,250000,vasitəçi (agent),143,Hüseyn Cavid parkı,Elmlər Akademiyası m.,Yasamal r.,,,,,,,,14,17,718
+719,Yeni tikili,84,2,var,158000,vasitəçi (agent),162,20 Yanvar m.,Yasamal r.,,,,,,,,,18,19,719
+720,Köhnə tikili,55,2,var,98000,vasitəçi (agent),168,Rəssamlıq Akademiyası,Nəriman Nərimanov parkı,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,5,5,720
+721,Yeni tikili,101,3,var,125000,vasitəçi (agent),325,Qara Qarayev m.,Nizami r.,,,,,,,,,2,16,721
+722,Yeni tikili,123,3,yoxdur,149000,vasitəçi (agent),633,Yasamal r.,,,,,,,,,,12,22,722
+723,Köhnə tikili,70,3,var,91500,vasitəçi (agent),282,Memar Əcəmi m.,Nəsimi r.,,,,,,,,,2,5,723
+724,Yeni tikili,134.5,3,yoxdur,132000,mülkiyyətçi,3358,Xətai r.,,,,,,,,,,11,16,724
+725,Köhnə tikili,50,2,var,50000,vasitəçi (agent),179,Suraxanı r.,Yeni Suraxanı q.,,,,,,,,,2,3,725
+726,Köhnə tikili,50,2,yoxdur,65000,vasitəçi (agent),195,Ayna Sultanova heykəli,Nərimanov r.,,,,,,,,,4,4,726
+727,Yeni tikili,138,3,var,203000,vasitəçi (agent),117,Bakı,,,,,,,,,,12,17,727
+728,Köhnə tikili,60,2,var,95000,vasitəçi (agent),251,İzmir parkı,İdman kompleksi,Yasamal r.,,,,,,,,2,4,728
+729,Yeni tikili,65,2,var,138000,mülkiyyətçi,1000,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,8,20,729
+730,Köhnə tikili,70,3,var,96000,vasitəçi (agent),216,Sabunçu r.,Bakıxanov q.,,,,,,,,,2,9,730
+731,Yeni tikili,147,4,yoxdur,96000,vasitəçi (agent),1640,Yasamal r.,,,,,,,,,,19,22,731
+732,Yeni tikili,83,2,var,96000,vasitəçi (agent),180,Nizami r.,,,,,,,,,,9,17,732
+733,Yeni tikili,126,3,yoxdur,110000,vasitəçi (agent),148,Bakı,,,,,,,,,,3,19,733
+734,Yeni tikili,125,3,yoxdur,260000,vasitəçi (agent),134,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,13,19,734
+735,Köhnə tikili,70,3,var,108000,vasitəçi (agent),153,Yasamal bazarı,Yasamal r.,,,,,,,,,5,5,735
+736,Köhnə tikili,64,2,var,62000,mülkiyyətçi,309,Xətai r.,Əhmədli q.,,,,,,,,,7,9,736
+737,Köhnə tikili,90,3,var,144000,vasitəçi (agent),297,İnşaatçılar m.,Yasamal bazarı,Yasamal r.,,,,,,,,6,9,737
+738,Yeni tikili,230,4,var,440000,vasitəçi (agent),508,Koala parkı,Nəsimi bazarı,Dostluq kinoteatrı,Park Zorge,Nəsimi r.,,,,,,10,19,738
+739,Yeni tikili,140,3,var,330000,vasitəçi (agent),2111,Gənclik m.,Respublika stadionu,Nəsimi r.,,,,,,,,16,18,739
+740,Köhnə tikili,60,2,var,83000,vasitəçi (agent),205,Ayna Sultanova heykəli,Nərimanov r.,,,,,,,,,9,9,740
+741,Yeni tikili,90,3,yoxdur,54000,vasitəçi (agent),693,Abşeron r.,Masazır q.,,,,,,,,,6,10,741
+742,Köhnə tikili,67,4,var,150000,mülkiyyətçi,132,Səbail r.,,,,,,,,,,8,9,742
+743,Köhnə tikili,130,5,var,175000,151,Dünən 16,Binəqədi r.,8-ci mikrorayon q.,,,,,,,,,7,9,743
+744,Yeni tikili,135,4,yoxdur,169000,vasitəçi (agent),112,Nizami r.,8-ci kilometr q.,,,,,,,,,5,12,744
+745,Yeni tikili,71,2,var,110000,vasitəçi (agent),194,Memar Əcəmi m.,Nəsimi r.,4-cü mikrorayon q.,,,,,,,,8,12,745
+746,Yeni tikili,110,2,var,210000,vasitəçi (agent),229,Səbail r.,Badamdar q.,,,,,,,,,16,20,746
+747,Yeni tikili,45,2,var,87000,mülkiyyətçi,909,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,,14,18,747
+748,Köhnə tikili,65,3,var,115000,vasitəçi (agent),856,Memar Əcəmi m.,Nəsimi r.,2-ci mikrorayon q.,,,,,,,,2,5,748
+749,Köhnə tikili,70,3,var,120000,vasitəçi (agent),451,Dostluq kinoteatrı,Bakı Slavyan Universiteti,Azərbaycan Dillər Universiteti,Koala parkı,,,,,,,3,4,749
+750,Yeni tikili,47,2,yoxdur,33000,vasitəçi (agent),238,Abşeron r.,Masazır q.,,,,,,,,,7,11,750
+751,Yeni tikili,105,3,yoxdur,187000,mülkiyyətçi,113,Koala parkı,Zoopark,Nəsimi bazarı,Dostluq kinoteatrı,Nəsimi r.,,,,,,3,16,751
+752,Yeni tikili,110,2,yoxdur,165000,vasitəçi (agent),169,Təhsil Nazirliyi,Nərimanov r.,,,,,,,,,6,17,752
+753,Yeni tikili,145,3,yoxdur,300000,vasitəçi (agent),2203,Ağ şəhər,Xətai r.,,,,,,,,,5,7,753
+754,Yeni tikili,76,2,yoxdur,43000,vasitəçi (agent),190,Xırdalan,,,,,,,,,,6,7,754
+755,Yeni tikili,193,3,var,300000,vasitəçi (agent),340,Hüseyn Cavid parkı,Texniki Universiteti,Sovetski,Elmlər Akademiyası m.,Yasamal r.,,,,,,15,20,755
+756,Yeni tikili,107,3,var,155000,mülkiyyətçi,895,Yasamal bazarı,Yasamal r.,Yasamal q.,,,,,,,,6,7,756
+757,Köhnə tikili,54,2,var,65700,vasitəçi (agent),322,Xətai r.,Əhmədli q.,,,,,,,,,7,9,757
+758,Yeni tikili,147,4,yoxdur,98000,vasitəçi (agent),990,Yasamal r.,,,,,,,,,,9,22,758
+759,Yeni tikili,130,3,var,200000,vasitəçi (agent),147,28 May m.,Neft Akademiyası,Bakı Slavyan Universiteti,Nəsimi r.,,,,,,,10,15,759
+760,Yeni tikili,110,3,yoxdur,145000,mülkiyyətçi,171,Neftçi bazası,Tibb Universiteti,Nəsimi r.,,,,,,,,6,17,760
+761,Yeni tikili,185,4,var,425000,vasitəçi (agent),281,Neft Akademiyası,28 May m.,Səməd Vurğun parkı,Bakı Musiqi Akademiyası,Milli Konservatoriya,Nəsimi r.,,,,,9,20,761
+762,Yeni tikili,154,3,yoxdur,235000,vasitəçi (agent),410,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,,,18,20,762
+763,Yeni tikili,60,2,yoxdur,98000,vasitəçi (agent),169,Gənclik m.,Respublika stadionu,Nəsimi r.,,,,,,,,8,10,763
+764,Köhnə tikili,60,2,var,92000,vasitəçi (agent),328,İnşaatçılar m.,,,,,,,,,,1,9,764
+765,Yeni tikili,90,2,yoxdur,194000,mülkiyyətçi,1414,Nəsimi bazarı,Nəsimi r.,,,,,,,,,9,14,765
+766,Köhnə tikili,60,3,var,84000,vasitəçi (agent),635,Memar Əcəmi m.,Nəsimi r.,4-cü mikrorayon q.,,,,,,,,5,5,766
+767,Köhnə tikili,65,2,var,94000,vasitəçi (agent),158,Azadlıq Prospekti m.,Binəqədi r.,8-ci mikrorayon q.,,,,,,,,2,5,767
+768,Yeni tikili,68,3,yoxdur,49000,vasitəçi (agent),1298,Abşeron r.,Masazır q.,,,,,,,,,1,4,768
+769,Yeni tikili,350,4,yoxdur,550000,mülkiyyətçi,152,Nəsimi bazarı,Koala parkı,Nəsimi r.,,,,,,,,8,17,769
+770,Yeni tikili,58,2,yoxdur,67000,vasitəçi (agent),328,İnşaatçılar m.,Yasamal r.,Yeni Yasamal q.,,,,,,,,15,16,770
+771,Yeni tikili,160,3,var,340000,vasitəçi (agent),1362,Cavanşir körpüsü,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,7,17,771
+772,Yeni tikili,85,3,yoxdur,60500,mülkiyyətçi,290,Xırdalan,,,,,,,,,,7,11,772
+773,Yeni tikili,144,2,yoxdur,172000,vasitəçi (agent),110,Yasamal bazarı,Elmlər Akademiyası m.,Yasamal r.,,,,,,,,21,22,773
+774,Köhnə tikili,50,2,var,71000,vasitəçi (agent),204,Memar Əcəmi m.,Nəsimi r.,3-cü mikrorayon q.,,,,,,,,2,5,774
+775,Yeni tikili,88,2,var,116000,vasitəçi (agent),618,Həzi Aslanov m.,Xətai r.,,,,,,,,,14,19,775
+776,Yeni tikili,101,2,yoxdur,97000,mülkiyyətçi,184,Bakı Asiya Universiteti,Nəsimi r.,,,,,,,,,9,19,776
+777,Yeni tikili,105,3,var,155000,vasitəçi (agent),171,Yasamal bazarı,Elmlər Akademiyası m.,Yasamal r.,,,,,,,,15,17,777
+778,Yeni tikili,94,2,yoxdur,125000,mülkiyyətçi,254,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,,,6,16,778
+779,Yeni tikili,85,3,var,125000,vasitəçi (agent),147,Memar Əcəmi m.,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,9,9,779
+780,Yeni tikili,103,3,var,215000,vasitəçi (agent),104,Yasamal bazarı,İnşaatçılar m.,Yasamal r.,,,,,,,,3,16,780
+781,Köhnə tikili,33,1,var,59000,vasitəçi (agent),219,Memar Əcəmi m.,Nəsimi r.,,,,,,,,,3,5,781
+782,Köhnə tikili,60,3,var,98000,vasitəçi (agent),285,İnşaatçılar m.,Yasamal r.,,,,,,,,,3,9,782
+783,Yeni tikili,43,1,yoxdur,38000,vasitəçi (agent),167,Xırdalan,,,,,,,,,,4,6,783
+784,Köhnə tikili,80,3,var,112000,mülkiyyətçi,1267,Binəqədi r.,,,,,,,,,,9,9,784
+785,Yeni tikili,103,2,yoxdur,82400,vasitəçi (agent),705,Yasamal r.,,,,,,,,,,14,22,785
+786,Köhnə tikili,65,3,var,107000,vasitəçi (agent),145,Yasamal bazarı,İnşaatçılar m.,Yasamal r.,,,,,,,,2,5,786
+787,Yeni tikili,56.4,1,var,67000,mülkiyyətçi,307,Qara Qarayev m.,Nizami r.,8-ci kilometr q.,,,,,,,,9,13,787
+788,Köhnə tikili,30,1,yoxdur,60000,vasitəçi (agent),218,Yasamal r.,,,,,,,,,,8,9,788
+789,Yeni tikili,145,4,var,160000,mülkiyyətçi,172,Xalqlar Dostluğu m.,Nizami r.,8-ci kilometr q.,,,,,,,,14,17,789
+790,Yeni tikili,108,3,var,320000,vasitəçi (agent),92,Dostluq kinoteatrı,Koala parkı,Azərbaycan Dillər Universiteti,Nəsimi r.,,,,,,,18,19,790
+791,Köhnə tikili,90,3,var,128000,vasitəçi (agent),327,Şəhidlər xiyabanı,Səbail r.,,,,,,,,,8,10,791
+792,Yeni tikili,85,2,var,130000,vasitəçi (agent),441,Memar Əcəmi m.,Nəsimi r.,,,,,,,,,14,18,792
+793,Köhnə tikili,48,3,var,78000,vasitəçi (agent),652,Memar Əcəmi m.,Nəsimi r.,2-ci mikrorayon q.,,,,,,,,2,5,793
+794,Köhnə tikili,70,3,var,87000,vasitəçi (agent),138,Gəncə,,,,,,,,,,2,5,794
+795,Yeni tikili,190,4,var,245000,vasitəçi (agent),145,Nərimanov heykəli,Sovetski,Space TV,Yasamal r.,,,,,,,2,16,795
+796,Yeni tikili,165,4,var,299000,vasitəçi (agent),415,Şərq bazarı,Nərimanov r.,,,,,,,,,14,17,796
+797,Köhnə tikili,145,4,var,145000,vasitəçi (agent),269,Ayna Sultanova heykəli,,,,,,,,,,2,9,797
+798,Yeni tikili,90.5,2,var,140000,mülkiyyətçi,4470,20 Yanvar m.,Nəsimi r.,,,,,,,,,15,18,798
+799,Yeni tikili,150,4,var,200000,vasitəçi (agent),126,Xalqlar Dostluğu m.,Nizami r.,,,,,,,,,2,12,799
+800,Yeni tikili,100,3,yoxdur,94000,vasitəçi (agent),189,Nizami r.,8-ci kilometr q.,,,,,,,,,12,16,800
+801,Yeni tikili,74,2,var,125000,mülkiyyətçi,3153,Memar Əcəmi m.,Nəsimi r.,3-cü mikrorayon q.,,,,,,,,8,12,801
+802,Yeni tikili,90,3,var,74000,vasitəçi (agent),166,Abşeron r.,Masazır q.,,,,,,,,,7,9,802
+803,Yeni tikili,100,3,yoxdur,129000,vasitəçi (agent),580,İdman kompleksi,Nəsimi r.,,,,,,,,,10,19,803
+804,Yeni tikili,123,3,yoxdur,165000,vasitəçi (agent),137,Tibb Universiteti,Nəsimi r.,,,,,,,,,12,16,804
+805,Köhnə tikili,51,2,var,85000,mülkiyyətçi,287,Zərifə Əliyeva adına park,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,3,9,805
+806,Köhnə tikili,110,4,var,440000,vasitəçi (agent),161,Sahil m.,Sahil bağı,Malokan bağı,Xalça Muzeyi,Nizami kinoteatrı,Pedaqoji Universiteti,Səbail r.,,,,3,4,806
+807,Yeni tikili,52.5,2,yoxdur,60000,vasitəçi (agent),233,Yasamal r.,Yeni Yasamal q.,,,,,,,,,4,17,807
+808,Yeni tikili,303,6,var,1000000,vasitəçi (agent),176,Azərbaycan Dillər Universiteti,Bakı Slavyan Universiteti,Sirk,28 May m.,Nəsimi r.,,,,,,6,14,808
+809,Köhnə tikili,60,2,var,105000,vasitəçi (agent),390,İnşaatçılar m.,Yasamal r.,,,,,,,,,3,9,809
+810,Yeni tikili,190,4,var,389000,mülkiyyətçi,1278,Şah İsmayıl Xətai m.,Cavanşir körpüsü,Xətai r.,,,,,,,,9,11,810
+811,Yeni tikili,97,2,yoxdur,97000,vasitəçi (agent),168,Dərnəgül m.,Binəqədi r.,,,,,,,,,11,16,811
+812,Yeni tikili,100,3,yoxdur,125000,vasitəçi (agent),132,Yasamal r.,Yeni Yasamal q.,,,,,,,,,7,13,812
+813,Yeni tikili,148,3,var,270000,vasitəçi (agent),123,Nərimanov heykəli,Sovetski,Yasamal r.,Yasamal q.,,,,,,,4,16,813
+814,Köhnə tikili,50,2,var,55000,mülkiyyətçi,223,Qaradağ r.,Lökbatan q.,,,,,,,,,1,4,814
+815,Yeni tikili,68,1,yoxdur,76000,vasitəçi (agent),2060,Yasamal r.,,,,,,,,,,7,18,815
+816,Yeni tikili,136,3,var,257000,mülkiyyətçi,240,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,9,17,816
+817,Yeni tikili,120,3,yoxdur,198000,vasitəçi (agent),138,Elmlər Akademiyası m.,Yasamal r.,Yasamal q.,,,,,,,,7,16,817
+818,Köhnə tikili,95,3,var,135000,vasitəçi (agent),396,İnşaatçılar m.,Yasamal r.,,,,,,,,,7,9,818
+819,Yeni tikili,211,4,var,316500,vasitəçi (agent),1399,Cavanşir körpüsü,Xətai r.,,,,,,,,,5,16,819
+820,Köhnə tikili,100,4,var,132000,vasitəçi (agent),188,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,,4,9,820
+821,Yeni tikili,147,4,yoxdur,101000,vasitəçi (agent),366,Yasamal r.,,,,,,,,,,5,22,821
+822,Yeni tikili,102,2,yoxdur,112200,mülkiyyətçi,899,Neftçilər m.,Nizami r.,8-ci kilometr q.,,,,,,,,12,17,822
+823,Yeni tikili,100,2,yoxdur,180000,vasitəçi (agent),247,Koala parkı,Dostluq kinoteatrı,Zoopark,Nəsimi bazarı,Nəsimi r.,,,,,,15,17,823
+824,Köhnə tikili,60,2,var,88000,vasitəçi (agent),612,Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.,,,,,,,,1,9,824
+825,Yeni tikili,73,2,yoxdur,115000,vasitəçi (agent),123,İnşaatçılar m.,Yasamal r.,,,,,,,,,6,12,825
+826,Yeni tikili,300,4,var,500000,vasitəçi (agent),212,Zoopark,Dostluq kinoteatrı,Nərimanov r.,,,,,,,,8,16,826
+827,Yeni tikili,213,4,yoxdur,700000,vasitəçi (agent),129,Axundov bağı,İqsadiyyat Universiteti,Dövlət İdarəçilik Akademiyası,İçəri Şəhər m.,Prezident parkı,Qubernator parkı,M.Ə.Sabir parkı,Sovetski,Nərimanov heykəli,Səbail r.,10,15,827
+828,Yeni tikili,184,4,var,230000,vasitəçi (agent),2944,Şərq bazarı,Nərimanov r.,,,,,,,,,7,16,828
+829,Yeni tikili,97,2,yoxdur,96000,vasitəçi (agent),148,Dərnəgül m.,Binəqədi r.,7-ci mikrorayon q.,,,,,,,,10,17,829
+830,Köhnə tikili,66,2,var,94000,mülkiyyətçi,171,Azadlıq Prospekti m.,Binəqədi r.,8-ci mikrorayon q.,,,,,,,,2,5,830
+831,Yeni tikili,110,3,yoxdur,149000,vasitəçi (agent),705,Qara Qarayev m.,Nizami r.,,,,,,,,,6,17,831
+832,Yeni tikili,45,2,var,40000,mülkiyyətçi,229,Abşeron r.,Masazır q.,,,,,,,,,5,10,832
+833,Yeni tikili,71,2,var,255000,vasitəçi (agent),151,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,7,18,833
+834,Yeni tikili,88,2,yoxdur,68000,vasitəçi (agent),136,Yasamal r.,Yeni Yasamal q.,,,,,,,,,14,19,834
+835,Yeni tikili,230,4,var,322000,vasitəçi (agent),110,Bakı Slavyan Universiteti,Azərbaycan Dillər Universiteti,28 May m.,Nəsimi r.,,,,,,,15,17,835
+836,Köhnə tikili,70,3,var,120000,vasitəçi (agent),358,Elmlər Akademiyası m.,Yasamal r.,,,,,,,,,7,10,836
+837,Yeni tikili,177,4,var,260000,vasitəçi (agent),2968,Tibb Universiteti,,,,,,,,,,5,16,837
+838,Köhnə tikili,118,4,var,160000,mülkiyyətçi,148,Nəsimi m.,Zərifə Əliyeva adına park,Binəqədi r.,9-cu mikrorayon q.,,,,,,,1,9,838
+839,Yeni tikili,73,1,yoxdur,57000,vasitəçi (agent),345,Yasamal r.,,,,,,,,,,7,22,839
+840,Yeni tikili,133.2,3,yoxdur,119000,vasitəçi (agent),826,Neftçilər m.,Nizami r.,,,,,,,,,3,16,840
+841,Köhnə tikili,60,2,var,98000,vasitəçi (agent),533,Neftçi bazası,TQDK,Nəsimi r.,,,,,,,,8,9,841
+842,Yeni tikili,69,2,var,155000,vasitəçi (agent),129,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,16,18,842
+843,Yeni tikili,200,3,var,600000,vasitəçi (agent),669,Şah İsmayıl Xətai m.,Səbail r.,,,,,,,,,5,21,843
+844,Yeni tikili,180,4,yoxdur,220000,vasitəçi (agent),127,İnşaatçılar m.,Yasamal r.,Yeni Yasamal q.,,,,,,,,12,18,844
+845,Yeni tikili,72,3,yoxdur,66000,vasitəçi (agent),68,Xırdalan,,,,,,,,,,2,5,845
+846,Yeni tikili,237,4,yoxdur,320000,vasitəçi (agent),1988,Təhsil Nazirliyi,Nərimanov r.,,,,,,,,,9,16,846
+847,Köhnə tikili,48,2,var,88000,vasitəçi (agent),242,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,,,2,5,847
+848,Yeni tikili,221,4,var,550000,mülkiyyətçi,809,Nəsimi bazarı,Koala parkı,Nəsimi r.,,,,,,,,15,17,848
+849,Köhnə tikili,65,3,var,116500,vasitəçi (agent),162,Nəsimi bazarı,Koala parkı,Dostluq kinoteatrı,Nərimanov r.,,,,,,,4,5,849
+850,Yeni tikili,90,2,yoxdur,90000,vasitəçi (agent),538,Yasamal r.,Yeni Yasamal q.,,,,,,,,,3,18,850
+851,Köhnə tikili,70,3,var,100000,vasitəçi (agent),170,Xətai r.,,,,,,,,,,5,9,851
+852,Köhnə tikili,40,2,var,79000,vasitəçi (agent),620,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,,,3,5,852
+853,Yeni tikili,90,2,var,160000,vasitəçi (agent),105,Nəsimi r.,4-cü mikrorayon q.,,,,,,,,,5,5,853
+854,Köhnə tikili,90,3,var,139000,vasitəçi (agent),376,Elmlər Akademiyası m.,Yasamal r.,,,,,,,,,9,10,854
+855,Köhnə tikili,210,4,var,410000,vasitəçi (agent),2235,Texniki Universiteti,Space TV,Hüseyn Cavid parkı,Elmlər Akademiyası m.,Yasamal r.,,,,,,5,5,855
+856,Köhnə tikili,100,4,var,150000,vasitəçi (agent),196,Binəqədi r.,8-ci mikrorayon q.,,,,,,,,,4,5,856
+857,Yeni tikili,87,2,var,135000,vasitəçi (agent),201,Ayna Sultanova heykəli,Nərimanov r.,,,,,,,,,10,17,857
+858,Yeni tikili,112,3,yoxdur,133000,vasitəçi (agent),418,Nizami r.,,,,,,,,,,9,17,858
+859,Yeni tikili,107,3,yoxdur,220000,mülkiyyətçi,836,Bakı Asiya Universiteti,Nəsimi r.,,,,,,,,,14,18,859
+860,Yeni tikili,120,3,var,245000,vasitəçi (agent),174,TQDK,Nəsimi r.,,,,,,,,,11,17,860
+861,Köhnə tikili,62,2,var,79000,mülkiyyətçi,870,Azadlıq Prospekti m.,Binəqədi r.,8-ci mikrorayon q.,,,,,,,,9,9,861
+862,Yeni tikili,123,3,yoxdur,130000,vasitəçi (agent),116,Yasamal r.,,,,,,,,,,18,22,862
+863,Köhnə tikili,120,4,var,144000,vasitəçi (agent),865,Yasamal r.,,,,,,,,,,4,9,863
+864,Yeni tikili,170,3,var,240000,vasitəçi (agent),1700,İnşaatçılar m.,,,,,,,,,,11,16,864
+865,Yeni tikili,87,2,yoxdur,110000,vasitəçi (agent),182,Həzi Aslanov m.,Xətai r.,Əhmədli q.,,,,,,,,9,17,865
+866,Köhnə tikili,75,3,yoxdur,85000,vasitəçi (agent),314,Nəsimi r.,4-cü mikrorayon q.,,,,,,,,,3,5,866
+867,Köhnə tikili,75,3,var,100000,vasitəçi (agent),207,Xalqlar Dostluğu m.,Xətai r.,Əhmədli q.,,,,,,,,6,9,867
+868,Yeni tikili,54,2,var,130000,mülkiyyətçi,165,20 Yanvar m.,Yasamal r.,Yasamal q.,,,,,,,,6,16,868
+869,Yeni tikili,121,3,var,178000,mülkiyyətçi,638,Zərifə Əliyeva adına park,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,6,12,869
+870,Yeni tikili,202,4,var,303000,mülkiyyətçi,207,Nəriman Nərimanov parkı,Nəriman Nərimanov m.,Rəssamlıq Akademiyası,Nərimanov r.,,,,,,,4,18,870
+871,Köhnə tikili,35,1,var,57000,vasitəçi (agent),450,Dövlət Statistika Komitəsi,İncəsənət və Mədəniyyət Un.,İzmir parkı,Yasamal r.,,,,,,,3,5,871
+872,Köhnə tikili,65,3,var,130000,vasitəçi (agent),126,Nəriman Nərimanov parkı,Rəssamlıq Akademiyası,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,5,5,872
+873,Yeni tikili,132,3,yoxdur,227000,vasitəçi (agent),1349,İnşaatçılar m.,,,,,,,,,,5,14,873
+874,Köhnə tikili,35,2,var,78500,vasitəçi (agent),938,Pedaqoji Universiteti,Malokan bağı,Sahil bağı,Milli Konservatoriya,Nizami kinoteatrı,Bakı Musiqi Akademiyası,Neft Akademiyası,Sahil m.,28 May m.,Nəsimi r.,1,2,874
+875,Yeni tikili,151.5,4,yoxdur,247000,mülkiyyətçi,214,Nəriman Nərimanov m.,Nəriman Nərimanov parkı,Nərimanov r.,,,,,,,,5,7,875
+876,Yeni tikili,111,3,yoxdur,105000,vasitəçi (agent),631,Nizami r.,,,,,,,,,,2,17,876
+877,Köhnə tikili,55,2,var,79000,vasitəçi (agent),442,İncəsənət və Mədəniyyət Un.,Elmlər Akademiyası m.,Yasamal r.,,,,,,,,2,5,877
+878,Yeni tikili,85,2,var,118000,vasitəçi (agent),245,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,,,6,13,878
+879,Yeni tikili,88,2,yoxdur,67000,vasitəçi (agent),140,Yasamal r.,Yeni Yasamal q.,,,,,,,,,13,19,879
+880,Köhnə tikili,80,3,var,91000,vasitəçi (agent),1723,Azadlıq Prospekti m.,Binəqədi r.,8-ci mikrorayon q.,,,,,,,,9,9,880
+881,Köhnə tikili,90,3,var,120000,vasitəçi (agent),215,Yasamal r.,,,,,,,,,,7,9,881
+882,Yeni tikili,205,4,var,315000,vasitəçi (agent),1883,Yasamal bazarı,,,,,,,,,,6,16,882
+883,Yeni tikili,116,3,yoxdur,165000,vasitəçi (agent),198,Nizami r.,8-ci kilometr q.,,,,,,,,,10,16,883
+884,Yeni tikili,86,2,var,117000,vasitəçi (agent),140,Binəqədi r.,7-ci mikrorayon q.,,,,,,,,,18,18,884
+885,Köhnə tikili,130,5,var,177000,mülkiyyətçi,207,Ayna Sultanova heykəli,Binəqədi r.,,,,,,,,,3,5,885
+886,Yeni tikili,140,3,yoxdur,189000,vasitəçi (agent),275,Şah İsmayıl Xətai m.,Xətai r.,,,,,,,,,9,16,886
+887,Yeni tikili,90,2,var,86000,mülkiyyətçi,216,Koala parkı,Dostluq kinoteatrı,Nəsimi bazarı,Zoopark,Sabunçu r.,Bakıxanov q.,,,,,16,19,887
+888,Yeni tikili,53.5,2,var,68500,vasitəçi (agent),210,Yasamal r.,,,,,,,,,,16,20,888
+889,Yeni tikili,140,3,var,200000,vasitəçi (agent),183,Nəriman Nərimanov m.,Nərimanov r.,,,,,,,,,10,20,889
+890,Köhnə tikili,70,3,var,130000,vasitəçi (agent),227,Elmlər Akademiyası m.,Yasamal r.,,,,,,,,,6,9,890
+891,Yeni tikili,104,3,var,220000,mülkiyyətçi,11845,Ağ şəhər,Xətai r.,,,,,,,,,4,16,891
+892,Yeni tikili,210,4,var,650000,vasitəçi (agent),876,Nəsimi bazarı,Koala parkı,Dostluq kinoteatrı,Park Zorge,Nəsimi r.,,,,,,12,18,892
+893,Yeni tikili,84.3,3,yoxdur,156500,mülkiyyətçi,307,Təhsil Nazirliyi,Nərimanov r.,,,,,,,,,10,17,893
+894,Yeni tikili,120,3,yoxdur,131000,vasitəçi (agent),591,Nizami r.,,,,,,,,,,13,15,894
+895,Yeni tikili,75,3,yoxdur,145000,mülkiyyətçi,1141,İnşaatçılar m.,Yasamal r.,,,,,,,,,10,18,895
+896,Yeni tikili,47,1,yoxdur,55000,mülkiyyətçi,724,Nəsimi r.,3-cü mikrorayon q.,,,,,,,,,18,18,896
+897,Yeni tikili,110,2,yoxdur,130000,vasitəçi (agent),141,Nizami r.,,,,,,,,,,15,17,897
+898,Yeni tikili,128,4,var,139000,vasitəçi (agent),126,Həzi Aslanov m.,Xətai r.,,,,,,,,,16,17,898
+899,Yeni tikili,60,1,yoxdur,60000,vasitəçi (agent),511,Binəqədi r.,9-cu mikrorayon q.,,,,,,,,,18,18,899
