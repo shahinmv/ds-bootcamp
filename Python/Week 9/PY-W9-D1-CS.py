@@ -50,6 +50,10 @@ if menu=='Homepage':
         
         **Loan_Status**: (Target) Loan approved (Y/N)
         """)
+    else:
+        st.info("""
+        Something about water potability.
+        """)
 elif menu=="EDA":
     st.header('Exploratory Data Analysis')
 
@@ -67,7 +71,10 @@ elif menu=="EDA":
         data.describe().T
 
         st.subheader("Balance of Data")
-        st.bar_chart(data.Loan_Status.value_counts())
+        if dataset=="Loan Prediction":
+            st.bar_chart(data.Loan_Status.value_counts())
+        else: 
+            st.bar_chart(data.Potability.value_counts())
 
         null_df=data.isnull().sum().to_frame().reset_index()
         null_df.columns=["Columns", "Counts"]
@@ -131,7 +138,10 @@ elif menu=="EDA":
                 st.warning(f'Error! Data processing has not finished successfully.{e}', icon="⚠️")
 
     if dataset=="Loan Prediction":
-        data=pd.read_csv("loan_prediction.csv")
+        data=pd.read_csv("loan_pred.csv")
+        describeStat(data)
+    else: 
+        data=pd.read_csv("water_potability.csv")
         describeStat(data)
 else:
     data=pd.read_csv("temp.csv")
@@ -156,7 +166,6 @@ else:
     if st.button("Run model"):
         cat_array=data.iloc[:,:-1].select_dtypes(include="object").columns
         num_array=data.iloc[:,:-1].select_dtypes(exclude="object").columns
-        Y=data.Loan_Status
 
         if scaling_method=="Standart":
             sc=StandardScaler()
@@ -165,20 +174,28 @@ else:
         data[num_array]=sc.fit_transform(data[num_array])
 
         if encoder_method=="Label":
+            print('label')
             lb=LabelEncoder()
             for col in cat_array:
                 data[col]=lb.fit_transform(data[col])
+            print(data)
         else:
+            print('onehot')
             data.drop(data.iloc[:,[-1]], axis=1, inplace=True)
             dms_df=data[cat_array]
             dms_df=pd.get_dummies(dms_df, drop_first=True)
             df_=data.drop(cat_array, axis=1)
-            df=pd.concat([df_, dms_df, Y], axis=1)
+            df=pd.concat([df_, dms_df, data[-1]], axis=1)
+            print(data)
 
         st.dataframe(data)
 
-        X = data.drop(columns=['Loan_Status'])
-        y = data.Loan_Status
+        if dataset=="Loan Prediction":
+            X = data.drop(columns=['Loan_Status'])
+            y = data.Loan_Status
+        else: 
+            X = data.drop(columns=['Potability'])
+            y = data.Potability
 
         X_train, X_test, y_train, y_test=train_test_split(X, y, test_size=float(test_size)/100, random_state=42)
 
