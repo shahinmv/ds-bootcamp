@@ -1,0 +1,4 @@
+Some level of programming is required to execute a successful data science project.
+The most common programming languages are Python, and R.
+Python is especially popular because it’s easy to learn,
+and it supports multiple libraries for data science and ML.

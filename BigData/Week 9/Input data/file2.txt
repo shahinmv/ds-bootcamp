@@ -1,0 +1,4 @@
+Mathematical models enable you to make quick calculations and predictions
+based on what you already know about the data.
+Modeling is also a part of ML and involves identifying
+which algorithm is the most suitable to solve a given problem and how to train these models.
